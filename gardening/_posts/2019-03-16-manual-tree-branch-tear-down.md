@@ -1,7 +1,5 @@
 ---
-Posted: 2019-03-16 09:30:02
-
-Updated: 2019-04-05 23:47:29
+date: 2019-03-16 09:30:02
 ---
 
 # Manual Tree Branch Tear Down
