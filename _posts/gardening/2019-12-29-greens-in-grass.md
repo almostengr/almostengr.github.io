@@ -1,7 +1,7 @@
 ---
 title: Greens in Grass
 author: Kenny Robinson, @almostengr
-date: 2019-12.29
+date: 2019-12-29
 description: Update for my garden for the weeks of 2019.12.15 adn 2019.12.22.
 ---
 
