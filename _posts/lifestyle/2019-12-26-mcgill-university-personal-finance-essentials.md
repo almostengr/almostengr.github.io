@@ -4,23 +4,23 @@
 
 A friend on social media posted about this online financial course that is available for free from McGill University
 in Canada. As you can imagine, the course is designed for Canadians, but I found that the concepts, ideas, and
-terminology could be applied to individuals in other countries. I was able to complete the course in about 4-5 
-hours (I did it all on Christmas Eve). 
+terminology could be applied to individuals in other countries. I was able to complete the course in about 4-5
+hours (I did it all on Christmas Eve).
 
-The article that was written about the course, gives more insight into what the course is about and who it is 
-designed for. Once you complete the course, you will receive a certificate of completion. Feel free to 
-<a href="https://www.rcinet.ca/en/2019/12/13/mcgill-university-offers-free-online-financial-literacy-course-for-everybody/" 
-target="_blank">read the article</a>. 
+The article that was written about the course, gives more insight into what the course is about and who it is
+designed for. Once you complete the course, you will receive a certificate of completion. Feel free to
+<a href="https://www.rcinet.ca/en/2019/12/13/mcgill-university-offers-free-online-financial-literacy-course-for-everybody/"
+target="_blank">read the article</a>.
 
-Below are my notes from the course. They are not well structured, but I did make an effort to note the key 
-points that were mentioned in each section. I have also included my test results from each section in case you want 
+Below are my notes from the course. They are not well structured, but I did make an effort to note the key
+points that were mentioned in each section. I have also included my test results from each section in case you want
 to compare your results to mine. For each section, you have to get 80% or greater in order to pass each module.
 
-I would encourage you to take the course for yourself even if you are good with money. I consider myself to be 
-good with money, but did not realize until I got to Module 8 that there is a psychological aspect to how well 
+I would encourage you to take the course for yourself even if you are good with money. I consider myself to be
+good with money, but did not realize until I got to Module 8 that there is a psychological aspect to how well
 or bad you are with money and investing.
 
-## Module 1, Intro 
+## Module 1, Intro
 
 No notes from this section.
 
@@ -28,9 +28,9 @@ No test for this section.
 
 ## Module 2, Debt and Borrowing
 
-### Common Sources of Debt 
+### Common Sources of Debt
 
-* understand what sources of credit are most appropriate 
+* understand what sources of credit are most appropriate
 * terms and conditions for the type of debt
 
 #### Credit Cards
@@ -45,8 +45,8 @@ No test for this section.
 * operates similar to checking account as it gives debit cards or is connected to checks
 * it accrues interest immediately
 * usually has lower fees and interest rates than credit cards
-* people often usually take out a larger balance for line of credit 
-than for credit cards as they have lower rates 
+* people often usually take out a larger balance for line of credit
+than for credit cards as they have lower rates
 
 #### Long Term Financing
 
@@ -57,35 +57,35 @@ than for credit cards as they have lower rates
 #### Mortgages
 
 * used specifically for buying a home
-* minimum down payment is usually required, 5% to 20% 
-* down payment cant be used from other sources, like line of credit 
+* minimum down payment is usually required, 5% to 20%
+* down payment cant be used from other sources, like line of credit
 * mortgage loan insurance covers the lender in case you default
 * a change of the mortgage term will require agreement between the two parties involved
 * loans are amortized
-* type of interest rate is a consideration. mortgage payments stay the same with fixed 
+* type of interest rate is a consideration. mortgage payments stay the same with fixed
 rates. However variable rates will cause your payment amount to go up.
 * time and interest are impacted by the mount of payments made during the repayment period
 
 ### Credit Scores
 
-#### Credit Worthiness 
+#### Credit Worthiness
 
-* Credit history is used and based on credit report. Like a report card and how responsible you are 
-* includes debt sent to collections, bankruptcy, 
-* usually stay on report for 6 years, but may stay on longer 
-* positive info, like making on time payments, may stay on longer 
+* Credit history is used and based on credit report. Like a report card and how responsible you are
+* includes debt sent to collections, bankruptcy,
+* usually stay on report for 6 years, but may stay on longer
+* positive info, like making on time payments, may stay on longer
 * math formula is used to calculate the score; from 300-900 (in Canada)
 * factors include how long you have had credit for, outstanding balances, missed payments, amount of
-outstanding debts, if debts have been sent to collections, being close to the credit limit, 
+outstanding debts, if debts have been sent to collections, being close to the credit limit,
 times you've tried to get more credit, record of insolvency or bankruptcy
 * good credit gives you preferential interest rates
-* check your credit report regularly 
+* check your credit report regularly
 
-#### Rules for Borrowing 
+#### Rules for Borrowing
 
 * live within your means
 * always use debt wisely
-* need a solid plan for repaying debt before getting it 
+* need a solid plan for repaying debt before getting it
 
 Passed with 80% score.
 
@@ -93,9 +93,9 @@ Passed with 80% score.
 
 * Time value of money - the amount of money is wroth more the sooner it is received
 
-### Compounding 
+### Compounding
 
-* allows you to earn interest on interest 
+* allows you to earn interest on interest
 * present value and future value
 fv = pv * (1 + r)^t
 
@@ -105,7 +105,7 @@ fv = 108.16
 
 * the higher interest rate or greater number of periods, the higher the future value
 * can only compare values at the same point in time
-IF they are not at the same point in time, then you have to bring them to the same point in time 
+IF they are not at the same point in time, then you have to bring them to the same point in time
 
 ### Discounting
 
@@ -121,88 +121,88 @@ pv = 100
 * doing investments in installments will earn more interest than a lump sum
 * doing payments in chunks, less interest is charged on the remaining balance
 
-I passed with a 90%. 
+I passed with a 90%.
 
 ## Module 4, Strategic Budget Building
 
-* need to have a budget 
-* budgets also deal with the time value of money 
+* need to have a budget
+* budgets also deal with the time value of money
 
-### Why Budget 
+### Why Budget
 
-* budget is estimate of income and expenditures over a given period of time 
-cash in vs cash out 
-* you want to have a surplus, more income than expenditures 
+* budget is estimate of income and expenditures over a given period of time
+cash in vs cash out
+* you want to have a surplus, more income than expenditures
 * process of budget helps achieve goals
 
-### Tips and Techniques 
+### Tips and Techniques
 
-* structured planning approach 
+* structured planning approach
 
-#### Preparing 
+#### Preparing
 
-* kick off meeting; 
-* write 1-3 words where you stand financially 
-* write 1-3 words where you like to be 1-3 years from now, balance ambition and reason 
-* include a vision statement 
+* kick off meeting;
+* write 1-3 words where you stand financially
+* write 1-3 words where you like to be 1-3 years from now, balance ambition and reason
+* include a vision statement
 * write 5 biggest challenges to achieving budget goals
-* include information that you need to stand where you are and where you would like to be 
-* supplementary material is available for the course 
+* include information that you need to stand where you are and where you would like to be
+* supplementary material is available for the course
 * have stakeholders involved to help you achieve your goals in the future; important to have those connections established
 
-#### Analyzing 
+#### Analyzing
 
 * make fact-based decisions
-* calculate your revenue and expenditures 
-* use the revenue tool that is available 
+* calculate your revenue and expenditures
+* use the revenue tool that is available
 
 #### Deciding
 
-* finalize the 3-year vision 
-* strategies to overcome the challenges and achieve the vision 
+* finalize the 3-year vision
+* strategies to overcome the challenges and achieve the vision
 * look back at the vision statement, adjust it as needed; should be 1-2 sentences
-* refine the vision based on the challenges identified 
-* 5-7 ways to overcome the challenges to be able to achieve the vision 
+* refine the vision based on the challenges identified
+* 5-7 ways to overcome the challenges to be able to achieve the vision
 
-### Keys Steps to Budgeting 
+### Keys Steps to Budgeting
 
-* achieving quick wins 
-* list 3 things that will get done in 2-3 months to achieve goals 
-* use KPIs to track progress; come up with 3-5 key areas (bank balance, investments, etc) 
-* if you get behind on your KPI, then adjust and keep going 
+* achieving quick wins
+* list 3 things that will get done in 2-3 months to achieve goals
+* use KPIs to track progress; come up with 3-5 key areas (bank balance, investments, etc)
+* if you get behind on your KPI, then adjust and keep going
 
 Key takeaways
 
-* annual budget is important 
+* annual budget is important
 * have a vision where you want to be in 3 years
 * review budget throughout the year
 * new budgets
 * celebrate successes
 
-Passed section with 100%. 
+Passed section with 100%.
 
 ## Module 5, The Art of Investing, Part 1
 
-### Investment Options 
+### Investment Options
 
-* need to know the difference between stocks and bonds 
-* stocks are very risky 
-* bonds are IOUs, more secure 
+* need to know the difference between stocks and bonds
+* stocks are very risky
+* bonds are IOUs, more secure
 * you make money from a bond via the interest
-* money market = bonds less than 1 year 
-* bonds promise a fixed income 
-* long term bonds have more risk than short term 
-* companies bonds are more risky than government bonds 
+* money market = bonds less than 1 year
+* bonds promise a fixed income
+* long term bonds have more risk than short term
+* companies bonds are more risky than government bonds
 * bonds are less risky than stocks
-* stocks usually have higher returns, 8% on average 
-* bear vs bull markets 
+* stocks usually have higher returns, 8% on average
+* bear vs bull markets
 
-#### how to invest 
+#### how to invest
 
-* open brokerage account 
-* mutual funds have professionals that invest on investors behalf 
-* active mutual funds adjust over time 
-* passive mutual funds just follow the market, usually are cheaper than active 
+* open brokerage account
+* mutual funds have professionals that invest on investors behalf
+* active mutual funds adjust over time
+* passive mutual funds just follow the market, usually are cheaper than active
 
 * the earlier you start investing, the better
 
@@ -210,47 +210,47 @@ Passed section with 100%.
 
 #### Diversification
 
-* most investors repeat the same mistakes 
+* most investors repeat the same mistakes
 * s and p 500 index - large 500 stocks in the market,
-gives an overall picture of the performance of the stock market 
-* compare the stocks to the S and P and it is less volatile 
+gives an overall picture of the performance of the stock market
+* compare the stocks to the S and P and it is less volatile
 * diversification doesn't eliminate every kind of risk , value can still go down
-if there is bad news about the entire economy 
+if there is bad news about the entire economy
 
-#### how do you diversify 
+#### how do you diversify
 
-* maximizing by including every kind of industry in your portfolio 
-* invest in index funds, buys multiple funds ; they don't trade a lot 
-* also invest internationally 
-* diversification doesn't protect from market crashes 
-* usually the market recovers from crashes; thus the high risk for stocks 
+* maximizing by including every kind of industry in your portfolio
+* invest in index funds, buys multiple funds ; they don't trade a lot
+* also invest internationally
+* diversification doesn't protect from market crashes
+* usually the market recovers from crashes; thus the high risk for stocks
 
-#### the dot com boom 
+#### the dot com boom
 
-* the .coms got to high levels and then the bubble popped 
+* the .coms got to high levels and then the bubble popped
 
-#### learn from the mistakes of others 
+#### learn from the mistakes of others
 
-* buy low, sell high; basic rule for making money of the market 
-* most people do the opposite 
-* should be expected that there will be more than one financial crisis in your lifetime 
-* keep investing when markets are depressed 
-* markets usually recover from crashes after a few years 
+* buy low, sell high; basic rule for making money of the market
+* most people do the opposite
+* should be expected that there will be more than one financial crisis in your lifetime
+* keep investing when markets are depressed
+* markets usually recover from crashes after a few years
 
 #### minimize investment expenses
 
-* the more the trade, some have worse experiences 
-* investment expense should be controlled; find low costs investments 
-* investing fess make a big difference when it comes to compounding if your money 
-you will get less over time, in some cases by half 
+* the more the trade, some have worse experiences
+* investment expense should be controlled; find low costs investments
+* investing fess make a big difference when it comes to compounding if your money
+you will get less over time, in some cases by half
 
-#### summary 
+#### summary
 
 * diversified portfolio
-* don't buy low and sell high ; mood of the market 
-* keep investing when things look bad 
-* minimize investment expenses 
-* be cautious when market becomes excited about a company or invention that will "change the world" 
+* don't buy low and sell high ; mood of the market
+* keep investing when things look bad
+* minimize investment expenses
+* be cautious when market becomes excited about a company or invention that will "change the world"
 
 Failed with 70% first time
 Passed with 90% second time
@@ -259,22 +259,22 @@ Passed with 90% second time
 
 ### Progressive Income Tax in Canada
 
-Doesn't apply to be since I'm in the US, so I didn't take notes on this. 
+Doesn't apply to be since I'm in the US, so I didn't take notes on this.
 
 ### Considering Income Tax when Investing
 
-* investment income is taxed on top of your regular income 
+* investment income is taxed on top of your regular income
 
-### Paying Down Debt 
+### Paying Down Debt
 
 * interest saved on debts are not taxed
-* paying personal debt should be considered first 
+* paying personal debt should be considered first
 
-### Government incentives 
+### Government incentives
 
-Information in this section is specific to Canada. 
-However it does describes in a similar nature of how retirement accounts 
-work in the US. From what I can gather is 
+Information in this section is specific to Canada.
+However it does describes in a similar nature of how retirement accounts
+work in the US. From what I can gather is
 
 * TFSA = Roth 401K or Roth IRA
 * RRSP = Traditional 401K
@@ -284,110 +284,109 @@ Passed with 100% on second attempt
 
 ## Module 7, The Realities of Real Estate
 
-### Why Real Estate? 
+### Why Real Estate?
 
-* capital appreciation 
-* provides a sense of security 
-* can use it as leverage to borrow money 
-* can use it to reduce taxes 
+* capital appreciation
+* provides a sense of security
+* can use it as leverage to borrow money
+* can use it to reduce taxes
 * value of real estate, the market usually keeps up with inflation
-but can go down with economic down turns 
+but can go down with economic down turns
 
 ### Factors to Consider
 
-#### location 
+#### location
 
-* population and income growth 
-* growing cities need more housing and provide a stable stream of income, and more capital appreciation 
-* Detroit is used as an example 
+* population and income growth
+* growing cities need more housing and provide a stable stream of income, and more capital appreciation
+* Detroit is used as an example
 
-#### macro factors 
+#### macro factors
 
-* more people will buy houses when mortgages when rates go down 
-* constraints play a factor, such as the higher cost of living 
+* more people will buy houses when mortgages when rates go down
+* constraints play a factor, such as the higher cost of living
 
-#### micro factors 
+#### micro factors
 
-* where and what you want to buy 
+* where and what you want to buy
 * up and coming neighborhood or established neighborhood
-* what do you want to buy? 
-* price and in relation to the size of the property 
-* consider age of the building 
+* what do you want to buy?
+* price and in relation to the size of the property
+* consider age of the building
 
 ### Housing Affordability and Rent vs Buy Decision
 
-* know whether you can afford a house or not in your current state 
-* spend no more than 28% to 36% of your income on housing 
-* house to rent ratio ;some cases means that it is better to rent than to buy 
+* know whether you can afford a house or not in your current state
+* spend no more than 28% to 36% of your income on housing
+* house to rent ratio ;some cases means that it is better to rent than to buy
 * price to rent ratio = price of property / annualized rent
 
 ### alternative ways to invest in real estate
 
 * invest in REITs (real estate investment trusts)
-* REITs can have different property types. 
+* REITs can have different property types.
 * usually are very good
 
 Failed with 70% on first attempt
 Passed with 80% on second attempt
 
-## Module 8, Behavioral Finance 
+## Module 8, Behavioral Finance
 
-* cross between psychology and finance 
-* investor irrationality 
+* cross between psychology and finance
+* investor irrationality
 
-### What Kind of Investor Are You? 
+### What Kind of Investor Are You?
 
-#### risk aversion 
+#### risk aversion
 
-* risk aversion - how much do you dislike risk 
-* most investors are risk averse 
-* there are different levels of risk aversion 
-* less risk would be treasury bills, gics 
-* higher risk would be stocks 
-* there is no true way to assess risk aversion 
+* risk aversion - how much do you dislike risk
+* most investors are risk averse
+* there are different levels of risk aversion
+* less risk would be treasury bills, gics
+* higher risk would be stocks
+* there is no true way to assess risk aversion
 
-#### risk aversion factors 
+#### risk aversion factors
 
-* investors level of wealth - wealthy investors can take on more risk 
-* age - younger investors can afford to take on more risk can recover from bad 
-mistakes based on future income and being able to bounce back over time 
+* investors level of wealth - wealthy investors can take on more risk
+* age - younger investors can afford to take on more risk can recover from bad
+mistakes based on future income and being able to bounce back over time
 * personal situation and liquidity needs
-* personality - some worry more than others. some don't worry enough. Thus 
-it factors in to how much each person is willing to risk. 
+* personality - some worry more than others. some don't worry enough. Thus
+it factors in to how much each person is willing to risk.
 
-### Psychological Mistakes 
+### Psychological Mistakes
 
-* emotions can impact investment decisions 
-* Behavioral Biases - observed tendency for some to make mistakes 
+* emotions can impact investment decisions
+* Behavioral Biases - observed tendency for some to make mistakes
 
-#### biases 
+#### biases
 
-* conservatism bias - under react to new information, 
-incorporate prior information 
+* conservatism bias - under react to new information,
+incorporate prior information
 * representativeness - similar to stereotypes; over-extrapolation of long trends
 * disposition effect - sell stocks in their portfolio that work well and hold under-performing stocks;
 often related to a state of denial
-* biased self attribution - attribute their success to their own skill when they 
-are making money, but claim bad luck when things go wrong 
+* biased self attribution - attribute their success to their own skill when they
+are making money, but claim bad luck when things go wrong
 * fear - fear has impact related to the risk you are willing to take; avoid
 making financial decisions when in a high emotional state
 
 #### three stages of grief
 
-* denial 
+* denial
 * anger
 * bargaining
 
 ### Investment Strategies
 
-#### trading strategies 
+#### trading strategies
 
-* momentum trading - invest in stocks that have done well over the past year 
-related to conservatism bias; the market can be slow to react to the news, thus 
+* momentum trading - invest in stocks that have done well over the past year
+related to conservatism bias; the market can be slow to react to the news, thus
 a delay in reaching its true value
-* post-earnings announcement drift - continue drifting in the initial direction after 
-the initial announcement; related to the conservatism bias; results in the stock price 
+* post-earnings announcement drift - continue drifting in the initial direction after
+the initial announcement; related to the conservatism bias; results in the stock price
 not increasing as good as it should
 
 Passed with 80% on first attempt
-

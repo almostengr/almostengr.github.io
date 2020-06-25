@@ -1,3 +1,9 @@
+---
+Posted: 2019-05-09 06:00:00
+
+Updated: 2020-02-01 13:22:27
+---
+
 # 7 Steps for More Steps
 
 ![Picture of pedometer](/images/2019.05.09-20190509_075032.jpg)
@@ -26,7 +32,7 @@ If you have the option to take the stairs or the elevator, the default I recomme
 
 At my job, the restroom is about 20 steps from my desk. The next closest restroom in the office building is about 75 steps, including a flight of stairs (see Hack 3). Just by going to another floor, that’s almost 3 times the number of steps. Round trip, that is about 150 steps and traversing two flights of stairs. If your home has multiple stories with a bathroom on each, then when you have to use the bathroom, go to the bathroom on a floor that you are not on. If your home is single story, then go to the bathroom that is furthest from you or make multiple trips to and from where you are before you go. This adds about 110 steps at work and 40 at home each time that I go.
 
-## Hack 5) Drink More Water 
+## Hack 5) Drink More Water
 
 I know what you are thinking… water has nothing to do with steps. Actually it does though. By drinking more water, you will go to the bathroom more often. When you go to the bathroom more often, then you can apply Hack 4 to get more steps. Before using this hack, I would probably go to the restroom once, sometimes twice, while at work. Now that I drink more water, I go at least two or more times per day. Each time I go, I apply Hack 3 and 4.
 
@@ -42,6 +48,3 @@ One day, I was waiting at a red light located near a fire station. I noticed som
 
 By doing a combination of these hacks, I've been able to increase my minimal step range from 2500-3500 range to the 4000-5000 range. I know you think that is not a lot, but keep in mind that every step counts. Hopefully, this has inspired you to take small steps in adding steps to your day. If you have additional steps (no pun intended) that you use to get more steps per day, add them in the comments below.
 
-**Posted: 2019-05-09 06:00:00** 
-
-**Updated: 2020-02-01 13:22:27** 
