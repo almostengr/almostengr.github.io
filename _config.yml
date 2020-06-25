@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: minima
 timezone: America/Chicago
 show_drafts: false
 unpublished: false
