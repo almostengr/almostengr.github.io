@@ -1,4 +1,4 @@
-theme: minimal-mistakes
+theme: minima
 timezone: America/Chicago
 show_drafts: false
 unpublished: false
