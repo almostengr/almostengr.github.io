@@ -7,7 +7,9 @@ Click a post below to read it.
     <li>
       <a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: '%B %d, %Y' }})</a>
       {% if post.category != null %}
-        [{{ post.category}}] 
+        [{{ post.category }}] 
+      {% elsif post.categories != null %}
+        [{{ post.categories }}] 
       {% endif %} 
     </li>
   {% endfor %}
