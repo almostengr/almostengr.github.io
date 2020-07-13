@@ -1,7 +1,8 @@
 ---
-title: Welcome To My Blog
+title: Welcome
 ---
 
+<!-- 
 Click a post below to read it.
 
 <ul>
@@ -16,3 +17,4 @@ Click a post below to read it.
     </li>
   {% endfor %}
 </ul>
+-->
