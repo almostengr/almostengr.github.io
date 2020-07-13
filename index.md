@@ -1,4 +1,6 @@
-# Welcome To My Blog
+---
+title: Welcome To My Blog
+---
 
 Click a post below to read it.
 
