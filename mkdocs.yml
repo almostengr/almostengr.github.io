@@ -4,7 +4,7 @@ site_description: The blog of Kenny Robinson, where he shares is hobbies.
 theme:
   # name: material
   name: null
-  custom_dir: theme/mkdocs-material/material
+  custom_dir: mkdocs-material/material
   language: en
   features: tabs
   palette:
