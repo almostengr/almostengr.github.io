@@ -1,0 +1,35 @@
+name: Generate static pages
+
+on:
+  push: 
+    branches:
+      - master
+
+jobs:
+  build:
+    name: buildout
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checking out repository
+      uses: actions/checkout@v2
+      with: 
+            repository: almostengr/almostengrwebsite
+
+    - name: Installing Python
+      run:  python3 -m pip install --upgrade pip
+
+    - name: Installing Mkdocs
+      run:  python3 -m pip install mkdocs
+
+    - name: Fetching branches
+      run:  git fetch -p
+
+    - name: Checking out gh-pages branch
+      run:  git checkout -b gh-pages origin/gh-pages
+
+    - name: Checking out main branch
+      run:  git checkout master
+
+    - name: Building static site
+      run:  python3 -m mkdocs gh-deploy
