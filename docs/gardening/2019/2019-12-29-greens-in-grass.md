@@ -2,7 +2,8 @@
 title: Greens in Grass
 author: Kenny Robinson, @almostengr
 date: 2019-12-29
-description: Update for my garden for the weeks of 2019.12.15 adn 2019.12.22.
+description: Update for my garden for the weeks of 2019.12.15 and 2019.12.22.
+published: 2019.12.28 16:09
 ---
 
 # Greens in Grass
@@ -48,6 +49,3 @@ break down.
 
 The weather for the last couple of weeks has ranged from being close to freezing
 to the lower 70s on Christmas. It has rained at least one day each week.
-
-**Published: 2019.12.28 16:09**
-

@@ -1,9 +1,6 @@
 ---
-
 Posted: 2019-08-15 22:40:33
-
 Updated: 2020-02-01 11:50:01
-
 ---
 
 # 21 Days for a New Habit

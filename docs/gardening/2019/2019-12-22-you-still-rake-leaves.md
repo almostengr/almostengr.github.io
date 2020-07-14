@@ -1,3 +1,10 @@
+---
+published: 2019-12.22
+updated: 2020-07-14
+author: Kenny Robinson, @almostengr
+title: You Still Rake Leaves?
+---
+
 # You Still Rake Leaves?
 
 It is that time of year. Weather has changed for the cooler and you have a bunch of leaves in your 

@@ -1,6 +1,5 @@
 ---
 Posted: 2019-05-09 06:00:00
-
 Updated: 2020-02-01 13:22:27
 ---
 
@@ -47,4 +46,3 @@ One day, I was waiting at a red light located near a fire station. I noticed som
 ## Conclusion
 
 By doing a combination of these hacks, I've been able to increase my minimal step range from 2500-3500 range to the 4000-5000 range. I know you think that is not a lot, but keep in mind that every step counts. Hopefully, this has inspired you to take small steps in adding steps to your day. If you have additional steps (no pun intended) that you use to get more steps per day, add them in the comments below.
-

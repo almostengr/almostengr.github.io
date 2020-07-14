@@ -1,7 +1,5 @@
 ---
-
 Posted: 2019-03-04 21:42:16
-
 Updated: 2019-03-10 23:47:57
 ---
 
@@ -30,4 +28,3 @@ has helped. Without this occasional pest control, they would devour the leaves r
 leaves missing. This week's weather has multiple frosty nights in the forecast. This is contrary to the
 severe weather and tornadoes that were experienced during the previous weekend. The frost will continue to
 control any pests that did start to set up shop on the leaves, especially the snails.
-

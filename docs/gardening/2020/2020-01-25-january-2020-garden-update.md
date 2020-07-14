@@ -53,4 +53,3 @@ Weather since the last post as been a mix of rain and sun. There were several
 severe storms that have passed through the area. Those storms did create
 tornadoes in other parts of the state, but no damage locally. Temperature
 has ranged from the low 30s to the low 70s.
-

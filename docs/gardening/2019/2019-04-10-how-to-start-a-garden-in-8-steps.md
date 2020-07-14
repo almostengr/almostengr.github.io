@@ -1,6 +1,5 @@
 ---
 Posted: 2019-04-10 06:40:42
-
 Updated: 2019-06-26 20:23:35
 ---
 
@@ -48,4 +47,3 @@ I know the section heading is not grammatically correct, but it does prove a poi
 ## Conclusion
 
 Hopefully this has helped you to get prepared for your Spring Garden this year. If you need help with getting started with your garden, drop a comment in the comment section below and I will do my best to help you.
-

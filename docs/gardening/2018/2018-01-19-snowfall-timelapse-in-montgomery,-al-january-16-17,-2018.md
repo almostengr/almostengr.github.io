@@ -8,7 +8,8 @@ updated: 2020-02-01 16:46:18
 
 ## Background
 
-Timelapse of the snowfall that occurred on January 16-17, 2018.  In total, 3 to 4 inches of snow fell in the area although 1 to 3 inches was forecasted.
+Timelapse of the snowfall that occurred on January 16-17, 2018.  In total, 3 to 4 inches of snow 
+fell in the area although 1 to 3 inches was forecasted.
 
 ## Video
 
