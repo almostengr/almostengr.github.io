@@ -17,7 +17,7 @@ jobs:
             repository: almostengr/almostengr.github.io
 
     - name: Installing python3
-      run:  python3 -m pip3 install --upgrade pip
+      run:  python3 -m pip3 install --upgrade pip3
 
     - name: Installing Mkdocs
       run:  python3 -m pip3 install mkdocs
