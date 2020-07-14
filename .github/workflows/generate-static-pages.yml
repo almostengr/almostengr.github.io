@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Ubuntu version info
-      run: lsb_release -a
+    - name: Ubuntu, Python, PIP version info
+      run: lsb_release -a && python --version && pip --version
       
     - name: Checking out repository
       uses: actions/checkout@v2
