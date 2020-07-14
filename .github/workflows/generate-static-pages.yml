@@ -20,10 +20,10 @@ jobs:
             repository: almostengr/almostengr.github.io
 
     - name: Installing python3
-      run:  python3 -m pip install --upgrade pip
+      run:  /usr/bin/python3 -m pip install --upgrade pip
 
     - name: Installing Mkdocs
-      run:  python3 -m pip install mkdocs
+      run:  /usr/bin/python3 -m pip install mkdocs
 
     - name: Fetching branches
       run:  git fetch -p
@@ -35,4 +35,4 @@ jobs:
       run:  git checkout master
 
     - name: Building static site
-      run:  python3 -m mkdocs gh-deploy
+      run:  /usr/bin/python3 -m mkdocs gh-deploy
