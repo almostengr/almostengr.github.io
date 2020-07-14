@@ -23,6 +23,9 @@ jobs:
     - name: Installing Mkdocs
       run:  /usr/bin/python3 -m pip install --upgrade mkdocs
 
+    - name: Install Minify Plugin
+      run: /usr/bin/python3 -m pip install --upgrade mkdocs-minify-plugin
+
     - name: Checking out repository
       uses: actions/checkout@v2
       with: 
