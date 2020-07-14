@@ -1,5 +1,6 @@
 site_name: Kenny Writes
 site_description: The blog of Kenny Robinson, where he shares is hobbies.
+site_url: https://almostengr.github.io/
 
 theme:
   # name: material
