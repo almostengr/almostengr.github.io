@@ -2,6 +2,9 @@ site_name: Kenny Writes
 site_description: The blog of Kenny Robinson, where he shares is hobbies.
 site_url: https://almostengr.github.io/
 
+remote_branch: master
+remote_name: origin
+
 theme:
   # name: material
   name: null
