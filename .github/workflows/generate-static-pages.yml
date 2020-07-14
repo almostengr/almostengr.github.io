@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Ubuntu version info
+      run: lsb_release
+      
     - name: Checking out repository
       uses: actions/checkout@v2
       with: 
