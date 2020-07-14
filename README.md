@@ -5,13 +5,13 @@ This repository contains the content for my hobby website,
 
 ## Branches
 
+### mkdocs (default)
+
+The Markdown files that the website is built from.
+
 ### master 
 
 The generated HTML source code that makes the website. 
-
-### mkdocs 
-
-The Markdown files that the website is built from.
 
 ### Latest Build Status
 
