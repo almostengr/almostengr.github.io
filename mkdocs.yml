@@ -20,6 +20,10 @@ theme:
   font:
     text: Ubuntu
     code: Ubuntu Mono
+  search_index_only: true
+  direction: ltr
+  static_templates:
+    - 404.html
 
 # repo_url: https://github.com/almostengr
 # repo_name: Github
