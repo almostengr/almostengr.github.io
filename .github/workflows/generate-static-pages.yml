@@ -21,6 +21,9 @@ jobs:
 
     - name: Installing python3
       run:  /usr/bin/python3 -m pip install --upgrade pip
+    
+    - name: Installing setuptools
+      run: /usr/bin/python3 -m pip install --upgrade setuptools
 
     - name: Installing Mkdocs
       run:  /usr/bin/python3 -m pip install mkdocs
