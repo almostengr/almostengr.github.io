@@ -38,4 +38,4 @@ jobs:
       run:  git checkout master
 
     - name: Building static site
-      run:  /usr/bin/python3 -m mkdocs gh-deploy
+      run:  /usr/bin/python3 -m mkdocs gh-deploy -b master
