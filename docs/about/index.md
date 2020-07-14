@@ -2,6 +2,7 @@
 title: About
 author: Kenny Robinson, @almostengr
 ---
+
 ## Why A Blog?
 
 Kenny started passively blogging in 2011 after watching 
