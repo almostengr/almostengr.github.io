@@ -31,11 +31,5 @@ jobs:
     - name: Fetching branches
       run:  git fetch -p
 
-    # - name: Checking out gh-pages branch
-    #   run:  git checkout -b gh-pages origin/gh-pages
-
-    - name: Checking out main branch
-      run:  git checkout master
-
     - name: Building static site
       run:  /usr/bin/python3 -m mkdocs gh-deploy -b master
