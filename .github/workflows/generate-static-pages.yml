@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Ubuntu version info
-      run: lsb_release
+      run: lsb_release -a
       
     - name: Checking out repository
       uses: actions/checkout@v2
