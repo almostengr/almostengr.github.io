@@ -1,6 +1,7 @@
 site_name: Kenny Writes
 site_description: The blog of Kenny Robinson, where he shares is hobbies.
 site_url: https://almostengr.github.io/
+site_author: Kenny Robinson, @almostengr
 
 remote_branch: master
 remote_name: origin
@@ -13,7 +14,7 @@ theme:
   features: tabs
   palette:
     primary: black
-    accent: light blue
+    accent: 'light blue'
   icon:
     logo: material/library
     repo: fontawesome/brands/git-alt
