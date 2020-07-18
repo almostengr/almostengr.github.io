@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 10
+Allow: /
+Sitemap: http://almostengr.github.io/sitemap.xml
