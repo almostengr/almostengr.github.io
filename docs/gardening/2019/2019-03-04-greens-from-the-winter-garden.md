@@ -1,6 +1,7 @@
 ---
-Posted: 2019-03-04 21:42:16
-Updated: 2019-03-10 23:47:57
+posted: 2019-03-04 21:42:16
+updated: 2019-03-10 23:47:57
+keywords: collard greens, winter garden, gardening, collards
 ---
 
 # Greens From the Winter Garden

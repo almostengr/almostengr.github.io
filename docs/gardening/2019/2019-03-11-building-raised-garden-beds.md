@@ -1,6 +1,7 @@
 ---
-Posted: 2019-03-11 23:24:22
-Updated: 2020-02-02 23:24:22
+posted: 2019-03-11 23:24:22
+updated: 2020-02-02 23:24:22
+keywords: garden beds, gardening, concrete blocks, raised beds, container gardening
 ---
 
 # Building Raised Garden Beds

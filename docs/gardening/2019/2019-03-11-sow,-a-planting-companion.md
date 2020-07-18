@@ -1,6 +1,6 @@
 ---
 Posted: 2019-03-11 22:45:26
-Updated: 2019-03-11 23:23:43
+updated: 2019-03-11 23:23:43
 ---
 
 # Sow, A Planting Companion

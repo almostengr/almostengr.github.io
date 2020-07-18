@@ -1,6 +1,6 @@
 ---
-Posted: 2019-06-13 12:58:19
-Updated: 2020-02-01 11:42:47
+posted: 2019-06-13 12:58:19
+updated: 2020-02-01 11:42:47
 ---
 
 # 3 Benefits of Doing Something Different When Stuck
