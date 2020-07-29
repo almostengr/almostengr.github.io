@@ -30,7 +30,7 @@ jobs:
             repository: almostengr/almostengr.github.io
 
     - name: Mkdocs Build
-      uses: /usr/bin/python3 -m mkdocs build
+      run: /usr/bin/python3 -m mkdocs build
 
   spelling:
     name: Check Spelling
