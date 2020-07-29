@@ -35,6 +35,7 @@ jobs:
   spelling:
     name: Check Spelling
     runs-on: ubuntu-latest
+    needs: build
 
     steps:
     - uses: actions/checkout@master
@@ -45,6 +46,7 @@ jobs:
   deploy:
     name: Deploy Website
     runs-on: ubuntu-latest
+    needs: spelling
     
     steps:
     - name: Fetching branches
