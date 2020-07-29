@@ -11,8 +11,7 @@ jobs:
     name: buildout
     runs-on: ubuntu-latest
 
-    steps:
-      
+    steps:      
     - name: Installing python3
       run:  /usr/bin/python3 -m pip install --upgrade pip
     
@@ -29,6 +28,19 @@ jobs:
       uses: actions/checkout@v2
       with: 
             repository: almostengr/almostengr.github.io
+
+    - name: Mkdocs Build
+      uses: /usr/bin/python3 -m mkdocs build
+
+  spelling:
+    name: Check Spelling
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    
+    - uses: rojopolis/spellcheck-github-actions@0.5.0
+      name: Spellcheck
 
     - name: Fetching branches
       run:  git fetch -p
