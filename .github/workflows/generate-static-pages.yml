@@ -2,8 +2,9 @@ name: Generate static pages
 
 on:
   push: 
-    branches:
-      - mkdocs
+    branches: [ mkdocs ]
+  pull_request:
+    branches: [ mkdocs ]
 
 jobs:
   build:
@@ -11,8 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # - name: Ubuntu, Python, Python 3, PIP version info
-    #   run: lsb_release -d && python --version && /usr/bin/python3 --version && pip --version
       
     - name: Installing python3
       run:  /usr/bin/python3 -m pip install --upgrade pip
