@@ -6,8 +6,6 @@ description: Update for my garden for the weeks of 2019.12.15 and 2019.12.22.
 published: 2019.12.28 16:09
 ---
 
-# Greens in Grass
-
 ## Greens in the Grass
 
 For the last couple of years, I have grown various greens, usually collard or mustard,

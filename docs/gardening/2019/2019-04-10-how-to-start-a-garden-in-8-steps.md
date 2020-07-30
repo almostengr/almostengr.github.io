@@ -11,7 +11,7 @@ updated: 2019-06-26 20:23:35
 
 Spring... all that pollen lets us know that is here. I recently got asked by a high school classmate how I got started with my garden and any tips that I could provide them with to help them get started with hers. In addition, the big box stores are having their spring 
 Black Friday sales. Which means plants and all things plant related,including dirt, tools, etc. are on sale 
-right now. Check your local sales paper for the dates and the details. With the spring Black Friday sale, this is the perfect time for you to start your summer garden. Below I have outlined 8steps for you to get started.
+right now. Check your local sales paper for the dates and the details. With the spring Black Friday sale, this is the perfect time for you to start your summer garden. Below I have outlined 8 steps for you to get started.
 
 ## Step 1) Determine A Location
 

@@ -2,20 +2,21 @@
 posted: 2019-03-11 23:24:22
 updated: 2020-02-02 23:24:22
 keywords: garden beds, gardening, concrete blocks, raised beds, container gardening
+title: Building Raised Garden Beds
 ---
-
-# Building Raised Garden Beds
 
 ![Truck bed full of concrete blocks](/images/2019.03.11-20190309_155432.jpg)
 
-This year, I decided to expand the growing space for my garden. As some of you may know, I have, for years, planted my fruits and vegetables mostly in containers and pots instead of directly in the ground.
-I’ve learned a number of lessons about the differences between planting in the ground vs planting in containers. I’ll cover that in another post.
+This year, I decided to expand the growing space for my garden. As some of you may know, I have, 
+for years, planted my fruits and vegetables mostly in containers and pots instead of directly in the ground.
+I’ve learned a number of lessons about the differences between planting in the ground vs planting 
+in containers. I’ll cover that in another post.
 In this post, I will cover how I built multiple raised beds out of concrete blocks.
 
 ## Step 1: How Big and How Many
 
 Building a raised bed is simple, but you will need to do some calculations before getting started. I know you were probably not ready, but there is math involved. Nothing advanced like calculus, but you may need a calculator if you forgot your multiplication tables, so have one on standby just in case.
- For the width of the bed, I would recommend that it be a maximum of three blocks wide. Using 16 inch long blocks, that’s just over 3 feet in total width. For the average gardener, that will allow you to at least reach the middle of the bed from either side.
+For the width of the bed, I would recommend that it be a maximum of three blocks wide. Using 16 inch long blocks, that’s just over 3 feet in total width. For the average gardener, that will allow you to at least reach the middle of the bed from either side.
 I used 5 blocks along the longer side and two sides on the ends for the bottom row. Then I used 3 blocks on the ends and 4 blocks along the sides on the top row. Thus a total of 14 blocks(5 per side times 2 sides = 10, 2 per side times 2 sides = 4, 10 + 4 = 14) per row.
 If you noticed, I did not use feet or inches as measurements. The reason being is that converting linear length to blocks is additional and unnecessary math for this project as there is an inside length (where the plants and dirt will go) and an outside length (where you would stand when picking your food) that would have to be calculated. Besides, when you go to make your purchase, they are going to want to know how many blocks that you want, not how many linear feet or inches or centimeters or yards or kilometers of blocks that you need.
 

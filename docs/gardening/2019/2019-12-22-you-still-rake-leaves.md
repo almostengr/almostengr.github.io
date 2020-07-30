@@ -5,8 +5,6 @@ author: Kenny Robinson, @almostengr
 title: You Still Rake Leaves?
 ---
 
-# You Still Rake Leaves?
-
 It is that time of year. Weather has changed for the cooler and you have a bunch of leaves in your 
 yard. Are you really going to want to spend time raking them? Probably not. There are various ways 
 to handle leaves when the season change. 

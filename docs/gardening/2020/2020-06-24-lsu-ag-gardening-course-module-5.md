@@ -5,8 +5,6 @@ author: Kenny Robinson, @almostengr
 categories: gardening
 ---
 
-# LSU AG Gardening Course Module 5
-
 ## Types of Plant Reproduction
 
 * sexual (seeds) 
