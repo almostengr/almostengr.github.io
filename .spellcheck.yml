@@ -13,6 +13,10 @@ matrix:
     - code
     - pre
     - a 
+    attributes:
+    - href
+    - src
+    - target
   sources:
   - 'docs/**/*.md'
   default_encoding: utf-8
