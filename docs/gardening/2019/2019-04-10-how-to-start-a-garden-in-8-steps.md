@@ -40,7 +40,7 @@ Now that you have your soil you can decide on what type of plants that you want 
 
 ## Step 7) Just Add Water
 
-Plants, like any other living creature, need water. The guidelines that I follow regarding water formy outdoor plants is every other day during the hottest part of the season. During the cooler parts of the year, I usually water as needed. This needis determined based upon how dry the top inch to inch and a half of the soil is. If it rains on a given day during the hottest part of the season, I do not water my plants. The reason being is that you want the plants to be able to manage without going daily with water, in case you decide to go on vacation.
+Plants, like any other living creature, need water. The guidelines that I follow regarding water for my outdoor plants is every other day during the hottest part of the season. During the cooler parts of the year, I usually water as needed. This need is determined based upon how dry the top inch to inch and a half of the soil is. If it rains on a given day during the hottest part of the season, I do not water my plants. The reason being is that you want the plants to be able to manage without going daily with water, in case you decide to go on vacation.
 
 ## Step 8) Now That's Some Good Eating
 

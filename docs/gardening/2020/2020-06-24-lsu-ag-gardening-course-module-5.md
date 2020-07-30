@@ -38,13 +38,13 @@ categories: gardening
 * wider selection of varieties 
 * more control over environment 
 * save money 
-* increases survival rate (already has a headstart with your environment)
+* increases survival rate (already has a head start with your environment)
 * reduces weed competition 
 * helps you grow the exact number of plants 
 
 ### Seed Planting 
 
-* select your varities, start at least 6 weeks before the growing season 
+* select your varieties, start at least 6 weeks before the growing season 
 * get seed trays
 * get seed starting mix (usually no soil, things that hold mixture and fertilizer)
 * have seed starting area ready 
