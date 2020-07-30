@@ -12,6 +12,7 @@ matrix:
     ignores:
     - code
     - pre
+    - a 
   sources:
   - 'docs/**/*.md'
   default_encoding: utf-8

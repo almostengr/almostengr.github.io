@@ -10,7 +10,7 @@ published: 2019.12.28 16:09
 
 ## Greens in the Grass
 
-For the last couple of years, I have grown various greens, usally collard or mustard,
+For the last couple of years, I have grown various greens, usually collard or mustard,
 in the same general area of my yard. Greens don't make seeds until the spring or
 summer time. When they make seeds, they make a lot.
 
