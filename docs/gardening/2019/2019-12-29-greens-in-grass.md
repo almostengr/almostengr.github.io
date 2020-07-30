@@ -11,7 +11,7 @@ published: 2019.12.28 16:09
 ## Greens in the Grass
 
 For the last couple of years, I have grown various greens, usally collard or mustard,
-in the same general area of my yard. Greens don't make seends until the srping or
+in the same general area of my yard. Greens don't make seeds until the spring or
 summer time. When they make seeds, they make a lot.
 
 Not sure at this point whether I'm going to let them continue to grow in the grass
@@ -26,7 +26,7 @@ For about week in early December, we had temperatures in the upper 60s and low 7
 for several days in a row. I believe that it was at this time that the red
 romaine decided to go from leafy mode to seed mode. When I first noticed this, I
 pulled the blooms off of the plant in hopes that it would switch back to leaf mode
-with the coller temperatures that followed. However, it did not and as a result the
+with the colder temperatures that followed. However, it did not and as a result the
 leaves are still narrow on the plant.
 
 ## Raised Beds
@@ -41,7 +41,7 @@ soil acidic. I'm not sure how acidic it made the soil, but based on the articles
 that I read about it, it can lower the pH to 5 or 4 range. The tomatoes that
 grew in the same bed in the spring, did extremely well. However, the lettuce,
 cabbage, and greens that are currently in the bed are not doing as well. In some
-of the raised beds, I have added ahses from the firepit to the bed. The articles that
+of the raised beds, I have added ashes from the firepit to the bed. The articles that
 I read suggested that by doing this, the soil will become more basic as the ashes
 break down.
 

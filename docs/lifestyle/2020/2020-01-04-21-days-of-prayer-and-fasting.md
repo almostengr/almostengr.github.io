@@ -112,12 +112,12 @@ serving at church, so had to get up slightly earlier than normal. However, I was
 able to take a nap after the church services.
 
 I interacted with others about this and my previous post regarding
-[my word of the year](/lifestyle/2020.01.03-word-of-the-year.md). It was very enlightening
+[my word of the year](/lifestyle/2020.01.03-word-of-the-year.md). It was very enligthening
 to hear about others' doing the same thing as myself, but for their personal
 benefit and mental health.
 
 I did not get around to exercising. Definitely is a must for tomorrow though. I
-did refrain from Facebook. I made a post yesteday on IG and Twitter, so I
+did refrain from Facebook. I made a post yesterday on IG and Twitter, so I
 responded to messages and comments regarding those. I did find myself mindlessly
 scrolling, which I am trying to get out of the habit of. Once I realized that
 I was doing it, I redirected my focus to being more productive.
@@ -181,11 +181,11 @@ wear are clearly not cut out for that job.
 ## Day 5 - January 9
 
 I listened to a sermon that talked about letting the past be the past, and
-to focus on what is to come in the future. I have been listening to mroe sermons
+to focus on what is to come in the future. I have been listening to more sermons
 recently, and this seems to be a common theme among them. These sermons
 were all delivered around the end of 2019.
 
-Watched some vidoes today, that had me thinking about some side income ideas
+Watched some videos today, that had me thinking about some side income ideas
 that I could use to advance and extend my skillset in the IT field. I have
 watched several videos about people that are using Fiverr to make income. I used
 Fiverr back in 2011, but had not really be active on the platform recently. I
@@ -241,7 +241,7 @@ had meat, but I did remove it from the sandwich was provided.
 
 Coworker informed me of a challenge that he has chosen to take up for this year. He
 said that hi grandson was doing 20 pushups in the morning and 20 in the evening
-for hte year of 2020. Figured that I would give this a shot as well just to see
+for the year of 2020. Figured that I would give this a shot as well just to see
 what gains or other benefits that I can get from it. Will post about it
 sometime in the future.
 

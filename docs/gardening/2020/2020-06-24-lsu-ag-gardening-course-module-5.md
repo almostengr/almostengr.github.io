@@ -29,7 +29,7 @@ categories: gardening
 ### Germination 
 
 * requires moisture, temperature, oxygen, light 
-* look at that charts fopr the seed temperatue for the plant 
+* look at that charts for the seed temperature for the plant 
 * heat pads may be needed for germination for those that have higher germination temperatures
 
 ### Why to start your own plant 
@@ -69,7 +69,7 @@ categories: gardening
 
 ### hybrid vs open pollinated 
 
-* open pollinated will produce a seed that is almost or identicate to the parent 
+* open pollinated will produce a seed that is almost or identical to the parent 
 * hybrids are intentionally crosspollinated. they have specific characteristics that the 
 grower wants. they come from the same two different parents 
 

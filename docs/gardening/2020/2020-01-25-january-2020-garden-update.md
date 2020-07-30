@@ -3,7 +3,7 @@
 ## Red Lettuce
 
 Today, I removed the red lettuce that I attempted to grow this winter. Normally
-lettuces and other leavy greens do well during the winter season due to the cooler
+lettuces and other leafy greens do well during the winter season due to the cooler
 temperatures and the occasional frost that controls bugs and sweetens the leaves.
 This winter season, we have experienced temperatures in the low and mid 70s for
 several days to a week at a time. That is definitely unseasonably warm, and as a
@@ -35,7 +35,7 @@ multiply.
 
 ![2020.01.25-garden-greens.jpg](/images/2020.01.25-garden-greens.jpg)
 
-Once I got to planting the leavy greens that I was going to grow for the season,
+Once I got to planting the leafy greens that I was going to grow for the season,
 I realized that I probably bought more than what I should have. I have greens
 all over the place, with several of the plants having leaves over one foot long.
 Seriously. In another recent IG post, I showed that there are greens that have
