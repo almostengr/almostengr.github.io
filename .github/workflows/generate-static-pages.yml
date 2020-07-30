@@ -13,7 +13,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+      
+    - name: Remove duplicates from wordlist
+      run: (/bin/cat .wordlist.txt | /usr/bin/sort | /usr/bin/uniq) > .wordlist.tmp
     
+    - name: Moving cleaned wordlist
+      run: /bin/mv .wordlist.tmp .wordlist.txt
+          
     - uses: rojopolis/spellcheck-github-actions@0.5.0
       name: Spellcheck
 
