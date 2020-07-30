@@ -47,7 +47,7 @@ things that I previously have put off to the side.
 ### Daily Commits to Github
 
 As part of my personal branding strategy, I want to actually demonstrate that I do
-participate in the IT community and provide digitial contributions. That said, I
+participate in the IT community and provide digital contributions. That said, I
 plan on contributing to making at least one commit to any of my repositories per day
 during the fast. I know it seems excessive, but hear (or read) me out on this.
 Not all of my commits will be code related. The version control for my blog is
@@ -88,7 +88,7 @@ doing a workout. I have done this in the past, outside of a fasting period, and 
 agree that it does motivate you to be in better shape and allows you to have days
 off if your schedule does not allow workout time. For my implementation of the Two
 Day Rule, does not mean always working out. Sometimes I will substitute a true
-workout with a 30 minute walk, or a hike, or some other sort of physical activitiy.
+workout with a 30 minute walk, or a hike, or some other sort of physical activity.
 
 ### Water, Tea, or Natural Juices
 
@@ -112,7 +112,7 @@ serving at church, so had to get up slightly earlier than normal. However, I was
 able to take a nap after the church services.
 
 I interacted with others about this and my previous post regarding
-[my word of the year](/lifestyle/2020.01.03-word-of-the-year.md). It was very enligthening
+[my word of the year](/lifestyle/2020.01.03-word-of-the-year.md). It was very enlightening
 to hear about others' doing the same thing as myself, but for their personal
 benefit and mental health.
 

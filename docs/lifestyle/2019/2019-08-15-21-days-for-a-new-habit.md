@@ -45,7 +45,7 @@ So by cutting back on takeout and going out to eat, I was able to divert those f
 
 One of the ways to reduce stress is to work out. So I made a commitment to myself to do Focus T25 or Wii Sports a couple of times per week.
 
-Now I did not follow the T25 workout plan as it was designed given that I did not have the time to be able to do so.  My strategy was that some workout is better than no workout. Was I sore the first week of consistently doing Wii and T25? Yes. Almost to the point that I would rather sit or laydown than stand up. Did I feel a change in my body and level of energy? Yup.
+Now I did not follow the T25 workout plan as it was designed given that I did not have the time to be able to do so.  My strategy was that some workout is better than no workout. Was I sore the first week of consistently doing Wii and T25? Yes. Almost to the point that I would rather sit or lay down than stand up. Did I feel a change in my body and level of energy? Yup.
 
 ## Conclusion
 
