@@ -165,9 +165,66 @@ your net worth
 * Cleo - accountability app with AI; it interacts with you about your finances
 * loan calculator - gives you an estimate about how much you will spend for a loan, such as monthly payment
 * retirement calculator - estimates how much you need to save now and what age you plan to retire;
-from that you can determine how to plan for retirement and the age you can retire 
+from that you can determine how to plan for retirement and the age you can retire
 * [Robinhood](https://join.robinhood.com/kennyr61) - for investing in the stock market; free trades and provides financial related information
 
-* "The Millionaire Real Estate Investor" - book to checkout 
+* "The Millionaire Real Estate Investor" - book to checkout
 
+## Professional Development: Maximizing You - 2020.08.20
 
+### Identifying your strengths
+
+* who are you? what do other see in you? what is your definition of success?
+
+* my top 3 strengths: problem solving, putting things together, learning new things
+* my top 3 goals: entrepreneur, name associated with technology, retire early
+* how I measure success?  Getting more jobs and being contacted for doing what I do best.
+
+* Strength Finders - book recommendation
+
+### what's your intro? - exercise 
+
+* what's your story? IT professional that has a tendency to build things that are both
+technical and non-technical skillsets.
+* do others see what you see? me doing those things. Some say that I make it look easy, but 
+some of it comes naturally. I'm able to explain things so that people in different fields can understand.
+* what is your brand? how do you get people to remember who you are? 
+
+* dont be bashful about the things that we think that are important 
+
+### who knew? 
+
+* do you have a mentor? 
+* do you have a sponsor? 
+* what value they offer? 
+
+* sponsor is one that will defend you and speak on your behalf when you are not there; helps you
+get to the next level
+
+### exercise 
+
+* who are your mentors? none
+* who are your sponsors? none
+* are they aware (recognize) of your strengths? brand? 
+
+* mentors can offer a different perspective on things, even if they have less experience or they're
+younger than yourself.
+
+### Final throughts
+
+* you are your greatest asset
+* have an accountability partner
+* do you like nobody else and brand it 
+* develop your personal board of directors; they have mentors or sponsors that are aligned
+with your goals; know who you are and what you are trying to achieve
+* listening is a skill; invest time and effort in it 
+
+* mentor is more like a coach; you can use them to bounce ideas off of; consult with them 
+on various aspects
+
+## Building Open Source Applications with Azure App Services - 2020.08.20
+
+* apt-get install python3-venv
+* F1 sku means the free plan. Means great for testing; B1 is the basic plan, which costs
+* more information [https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+* recomemdned to start with teh Azure Fundamentals first
