@@ -121,3 +121,5 @@ skillsets
 venv
 sku
 microsoft
+coronavirus
+th
