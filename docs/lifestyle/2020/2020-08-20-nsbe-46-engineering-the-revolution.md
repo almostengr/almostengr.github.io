@@ -34,7 +34,7 @@ Looking for themes, similarities. Are there room to improve?
 
 #### do they reflect your "natural self"?
 
-* how much energy does it take to hsow up a certain way?
+* how much energy does it take to show up a certain way?
 
 * think about the words that you want to keep. look at the various layers of your brand
 
@@ -54,14 +54,14 @@ that attract audiences from both aspects
 * would your boss or parent, be ok with what you are posting? Is it part of your brand? This should
 be the foundational question that you ask yourself when posting content
 is there a theme that can tie the things you represent together? is your social media for a specific
-aspect or for mutliple aspects
+aspect or for multiple aspects
 * find a common foundation in what you do if you have two professional brands that do not
 necessarily mix
 
 ### Closing comments
 
 * know yourself
-* be consitent
+* be consistent
 * know that silence is not an option
 
 ## Leveling the Playing Field: The Art of Negotiation - 2020.08.20
@@ -75,7 +75,7 @@ necessarily mix
 ### your next level life
 
 * use your superpowers in your elevator speech
-* you can accelerate your career whe nyou are uncomfortable. expand your horizons = growth
+* you can accelerate your career when you are uncomfortable. expand your horizons = growth
 * bring your true self to work. being authentic will make people question who you really are
 * have different levels of friends when building your network
 
@@ -89,7 +89,7 @@ you need to have the conversations with your manager about your situation
 
 ### Build your negotiation skills
 
-* have to pratice it
+* have to practice it
 * you don't get what you don't ask for
 * work should not be different when it comes to negotiation
 * [https://roberthalf.com/salary-guide](https://roberthalf.com/salary-guide) and [https://www.payscale.com/my/survey/choose](https://www.payscale.com/my/survey/choose) have salary information
@@ -104,14 +104,14 @@ you need to have the conversations with your manager about your situation
 * what are you willing to give up if your first ask (salary, vacation) is not available to negotiated
 * role pay before you have to negotiate
 
-### Excute: The Meeting
+### Execute: The Meeting
 
-* set up the conversation, mention in the meeting invite what teh purpose of the meeting is
-* set the tone; friendly converstation; dont take it personally; dont overshare, try to stick to
+* set up the conversation, mention in the meeting invite what the purpose of the meeting is
+* set the tone; friendly conversation; do not take it personally; do not overshare, try to stick to
 your point and value statement
-* "go to the balcony"... otherwords, look at it from outside the box; there's a different view from the stage vs the audience
+* "go to the balcony"... other words, look at it from outside the box; there's a different view from the stage vs the audience
 
-### interative process
+### interactive process
 
 * continuously work on this sill over time
 
@@ -123,7 +123,7 @@ your point and value statement
 ### what's your money mindsets
 
 * overall objectives, your financial vision must compliment that vision
-* identify your priorities; avoid pitfalls, create a financial mission statement, disverity in
+* identify your priorities; avoid pitfalls, create a financial mission statement, diversity in
 your financial portfolio, assess the risks
 
 ### money mindset
@@ -190,7 +190,7 @@ technical and non-technical skillsets.
 some of it comes naturally. I'm able to explain things so that people in different fields can understand.
 * what is your brand? how do you get people to remember who you are? 
 
-* dont be bashful about the things that we think that are important 
+* do not be bashful about the things that we think that are important 
 
 ### who knew? 
 
@@ -210,7 +210,7 @@ get to the next level
 * mentors can offer a different perspective on things, even if they have less experience or they're
 younger than yourself.
 
-### Final throughts
+### Final thoughts
 
 * you are your greatest asset
 * have an accountability partner
@@ -227,4 +227,4 @@ on various aspects
 * apt-get install python3-venv
 * F1 sku means the free plan. Means great for testing; B1 is the basic plan, which costs
 * more information [https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-* recomemdned to start with teh Azure Fundamentals first
+* recommended to start with the Azure Fundamentals first
