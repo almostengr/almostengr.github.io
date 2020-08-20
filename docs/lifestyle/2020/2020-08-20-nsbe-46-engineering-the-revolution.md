@@ -106,11 +106,68 @@ you need to have the conversations with your manager about your situation
 
 ### Excute: The Meeting
 
-* set up the conversation, mention in the meeting invite what teh purpose of the meeting is 
-* set the tone; friendly converstation; dont take it personally; dont overshare, try to stick to 
+* set up the conversation, mention in the meeting invite what teh purpose of the meeting is
+* set the tone; friendly converstation; dont take it personally; dont overshare, try to stick to
 your point and value statement
 * "go to the balcony"... otherwords, look at it from outside the box; there's a different view from the stage vs the audience
 
-## interative process 
+### interative process
 
 * continuously work on this sill over time
+
+## Money Moves: Key Steps to Build a Legacy of Wealth
+
+* use a pre-owned vehicle
+* use at least 20 percent as down payment
+
+### what's your money mindsets
+
+* overall objectives, your financial vision must compliment that vision
+* identify your priorities; avoid pitfalls, create a financial mission statement, disverity in
+your financial portfolio, assess the risks
+
+### money mindset
+
+* planning is key
+* pay yourself first; automate it if you can
+* got to have an emergency fund; at least 6 months of expenses; this prevents unexpected from
+putting you in a bad financial situation
+* have insurance; personal, property, identify theft, economic
+* once you have done the analysis, then change your habits and create additional income
+
+### Offensive moves
+
+* you spend most of your money on car, home, children, education, and retirement
+* excess spending and rent doesn't generate wealth
+* your home can be an asset and increase in value overtime
+
+### alleviate debt
+
+* all debts are not bad; student loans and home loans are considered to be good debts
+* credit card, and cash advance loan are bad debit
+
+### invest wisely
+
+* company savings plan - companies usually match a percentage of what you invest, thus increasing
+your net worth
+* HSA (health savings account) or FSA (flexible savings account) - help reduce your taxable income
+
+### resources and tools that you can use
+
+* financial coach - focused on your financial education
+* financial advisor - focuses on your financial portfolio
+* you can have both or just one
+
+### use a budget
+
+* can use Excel, very manual process
+* apps are available; create profiles for each of your accounts; the services combine them and categorizes them
+* Cleo - accountability app with AI; it interacts with you about your finances
+* loan calculator - gives you an estimate about how much you will spend for a loan, such as monthly payment
+* retirement calculator - estimates how much you need to save now and what age you plan to retire;
+from that you can determine how to plan for retirement and the age you can retire 
+* [Robinhood](https://join.robinhood.com/kennyr61) - for investing in the stock market; free trades and provides financial related information
+
+* "The Millionaire Real Estate Investor" - book to checkout 
+
+
