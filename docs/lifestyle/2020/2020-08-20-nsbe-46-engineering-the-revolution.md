@@ -264,3 +264,92 @@ some flexibility given the circumstances.
 * because of social injustice, there are more discussions being held regarding the diversity of talent
 within the organization and how to make the companies at hirind diverse talent and improve the business
 at the same time
+
+## How to Interview at Amazon - Professionals
+
+didn't get to sit in on the entire session as I had another session that ended up getting cancelled
+
+* some of the points mentioned were that if you do not have a technical degree (i.e. business), that
+having a portfolio (ideally online) would be beneficial to you getting hired. That portfolio would
+demonstrate you skills.
+
+## Debt Free at 23: How I Paid Off $30,000+ Student Loans in One Year at 23!
+
+* Golden One Dream
+* @michobenjamin, michaelobenjamin.com, Michael Benjamin; presenter
+* self-awareness is the key
+* "The Power of Yet", principles are outlined, book recommendation
+* self-awareness is knowing who you are. your results will vary, but don't compare yourself to anybody
+else other than your previous self
+* using writing to manifest the things that you want. others may not understand, but you work
+on your goals - All my debts are cancelled!
+* what's your driving force? Less debt means less stress
+* the DISC assessment; helps you to know what your superpower is
+* Eric Thomas - need to look into who he is
+* ET Extremee Execution Program
+* what's your superpower?   Pilot - D; Flight Attendant - I; Grounds Crew - S;
+Air Traffic Controller - C    [flightassessment.com](flightassessment.com)
+* DEBT is a thief
+* youre not broke, you're on a financial transition
+
+### 3 steps - believe (spiritual), plan (mental), execute (physical)
+
+* believe - tell your spirit what to do; program yourself; you words feed your spirit;
+* he did a 21-day fast
+* consider biweekly payments vs monthly payment - equates to an additional month of payments
+
+* plan - reframe your mindset to follow actionable steps
+* stretch yourself by creating a plan
+* comparison is a thief of joy
+* value your time; it is a finite resource
+* stop worrying about others and worry about yourself; how do you view yourself
+* if saving doesn't hurt you physically and emotionally, you're not doing enough
+* failure is going to happen; you have to change your perspective
+
+#### parts of the plan
+
+* lifestyle
+* give - give to those in need ; not necessarily tithes; when you give, then you will get in return
+* physical - exercise consistently and maintain; doing this creates consistently
+* spiritual - allow God to maximize my spiritual strength
+* mental - apply to daily reading and meditation
+* affirmations - tell you yourself that you can a get rid of your debt; consider doing 30 day
+challenges related to your finances
+* tell your money what you want it to do; not the other way around
+
+* meditation exercise; improves your decision making and lowers stress
+* Medication is temporary feeling; meditation is permanent healing
+* get off social media at least once per week; reduces FOMO (fear of missing out); a lot of
+people only post their best online instead of their entire life
+* have a free hobby - you'll save money by doing things that do not cost you
+
+* budget - going to have to do it so that you know what you are doing with your money and what
+your money is doing; confirms that you are spending less than you make
+* when changing your spending habits, break it down into smaller steps
+* you are your own CFO; look at your finances as a business
+
+* budget vs money system
+* need to leave room for guilt free spending
+* can't bring logic to an emotional situation; numbers are about logic as it is math
+* categorize your needs and wants
+
+* once you categories needs vs wants;
+* rent shouldn't exceed 25 percent
+* allow 10 percent for saves; can be adjusted to 5 percent once you have $1k in savings
+
+* bring in addition money through other sources. use that additional income to pay towards your
+debt. in addition, pay above the minimum amount
+
+### Execute
+
+* generate money
+* what are your skills? talents?  sell stuff. Turo app. Amazon lighting deals
+
+* EAT (Execute and Thrive)
+* do what you say that you are going do and have planned for
+* consider free meals; allows you to use more money torwards debt payments
+* car should not be more than 20% of your income
+* "A vision without execution is hallucination" - Thomas Edison
+* your debt should exceed your income 
+* be humble - don't be afraid; sometimes you do need to have an ego check 
+* write an affirmation and include the date of when you want it to be done by
