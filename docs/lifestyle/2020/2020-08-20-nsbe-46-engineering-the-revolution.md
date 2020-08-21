@@ -350,6 +350,64 @@ debt. in addition, pay above the minimum amount
 * consider free meals; allows you to use more money torwards debt payments
 * car should not be more than 20% of your income
 * "A vision without execution is hallucination" - Thomas Edison
-* your debt should exceed your income 
-* be humble - don't be afraid; sometimes you do need to have an ego check 
+* your debt should exceed your income
+* be humble - don't be afraid; sometimes you do need to have an ego check
 * write an affirmation and include the date of when you want it to be done by
+
+## The Power of Body Language
+
+### hands and position
+
+* make sure that your hands are visible; keep them above the desk; avoid the pockets; use
+explainatory gestures (using your hands to explain, i.e. small vs big)
+* stiff (low), explanatory (ideal), and jazz hands (high)
+* trying to keep your hands in the chest area; on video, keep them in the frame
+
+### handshakes
+
+* handshake audit - weak vs firm; what does it say about the person's personality?;
+vertical vs horizontal
+* dry your hands so that they aren't wet; shake vertical, horizontal shakes can mean dominate
+or submissive (notice how President 45 does handshakes); mirrored firmness (don't give death
+grip, but not weak either);
+* if doing a video call, then do a wave and a smile
+
+### eye contact
+
+* mutual gazing - synchronizes activity with what you are doing and helps you pick up on
+social signals and clues
+* types of eye contact - power gazing (looking between eyes and forehead), social gazing (focus
+between the eyes and the mouth), intimate gazing (from eyes to bottom of neck)
+* decoding - what kind of gaze cues are being given; encoding - what kind of gaze cues am I giving?
+* avoidant (low; i.e. shifty eyes), mirrored 60-70 percent (ideal), invasive (high)
+
+### power posing
+
+* we look for winners
+* high power - head high, arms wide, chest open
+* low power - head down, arms closed off, shoulders rolled, looking sad
+* check your phone like a pro - do it closer to but not all the way on the high power side;
+refrain from the low power side
+* there are seating power positions as well; ideally want to be in the middle; pay attention
+to this more in the video call
+
+### Video call tips
+
+* before: lighting, gear (headphones vs speakers), dress to impress, prepare your background
+visual and audio
+* during: smile and wave, look at the dot (light on webcam), hand gestures,
+vocal power (dont be monotone)
+
+### Recap
+
+* visible hands with explantory gestures
+* eye contact
+* body posing
+* use your lowest natural tone; dont get too excited; talk while breathing out
+
+### What next?
+
+* digitial first impress audio
+* record your elevator pitch
+* pay attention to what you do with your first impression of meeting somebody
+* [www.scienceofpeople.com](www.scienceofpeople.com)
