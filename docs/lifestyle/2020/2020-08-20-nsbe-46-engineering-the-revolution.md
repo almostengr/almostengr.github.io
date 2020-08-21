@@ -8,8 +8,12 @@ keywords: nsbe, nsbe46, engineering the revolution, nsbe convention
 
 ## Background
 
-These are notes that I took from attended the NSBE 46th National Convention. This convention
-was held virtually this year do to the coronavirus.
+This convention was held virtually this year do to the coronavirus. The convention took place from August 19-23, 2020.
+Givne that the convention was hosted online, there were some opportunities to network with others, but
+not as many that you would normally have at an in-person convention.
+
+I have decided to publish my notes online so that I have them for future reference and for others
+to see what types of workshops were held.
 
 ## Personal Branding (Workshop) - 2020.08.20
 
@@ -255,8 +259,8 @@ less inclined to stay with that organization or employer
 * if you are in a position to make diversity happen, then do it. As mentioned, one of the panelists mentioned
 that he prioritizing recommending Black people for opportunities and positions based off the skills
 that he knows about that person
-* in regards to COVID, it is important that employers are able to support their employees and have 
+* in regards to COVID, it is important that employers are able to support their employees and have
 some flexibility given the circumstances.
-* because of social injustice, there are more discussions being held regarding the diversity of talent 
+* because of social injustice, there are more discussions being held regarding the diversity of talent
 within the organization and how to make the companies at hirind diverse talent and improve the business
 at the same time
