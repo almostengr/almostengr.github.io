@@ -411,3 +411,70 @@ vocal power (dont be monotone)
 * record your elevator pitch
 * pay attention to what you do with your first impression of meeting somebody
 * [www.scienceofpeople.com](www.scienceofpeople.com)
+
+## So You Think You're Too Old
+
+* based on their scale, I'm in Prime of my career; also that I enjoy my career
+* find your passion, find your purpose; your passion will lead you to your purpose;
+is your passion visible to the organization? do you have skills and knowledge to complement
+your passion?
+* you need to be your own brand ambassador
+* if you do not like how you are perceived, then you need to change your brand
+* you are not alone in branding yourself
+
+### develop your game plan
+
+* self assess yourself, then take action
+* what are you good at? what is your passion?
+* how would you describe yourself?
+* how would those close to you (influencers, work-mates) describe you?
+* based on your self-assessment, identify gaps and compose your brand statement
+* if you don't like the narrative, stop complaining and do something about it; then find
+duties or jobs that leverage the skills that you have and want to do
+
+### you have to stay in the game
+
+* keep yourself relevant
+* if you want to know the way, ask someone who has been there    -Chinese Proverb
+* what you deliver on the job is different from what others bring to the job; thus creating your
+uniqueness to your career
+
+### personal development
+
+* you're responsible for your development, not your employer; as time goes
+on, your assignments will be driven by the business need; build yourself a toolkit
+* get the most out of each assignment;
+* be interested in the work that your peers are doing; sometimes be willing to help, so that
+you can build capacity and to increase your skills; helping others now when you have knowledge,
+* self-study - continue to learn and develop yourself
+* expand your focus, don't box yourself in; expand your influence
+
+### understand how you are going to be graded
+
+* understand what the rules are; some of them change, some are static;
+
+### what's your product? what do you produce?
+
+* your product is the thing that you deliver;
+* you as an engineer are in the business of creating solutions, and you have to sell yourself
+to others that you can do that
+* you have to have the credibility
+
+### recap
+
+* find your passion, uncover your "why"
+* perception is reality, develop a game plan, define your brand
+* dont get benched, foucs on remaining relevant throughout your entire career
+
+### questions
+
+* if you are not receiving new opportunities, although you are a good performer and have a good
+reputation, then you may have to use your mentors or board of directors to get those
+opportunities and to vouch for you
+* find who are the top performers and take note to what they are doing. then build and improve
+yourself based upon that
+* hold your managers accountable for helping you through your career
+* True mentor relationships are give and take. Also needs to be with people that you true can
+connect to, not necessarily any person that can talk. Also mentors can be outside of your
+employer.
+* Be willing to open up to others. Get out of your comfort zone.
