@@ -464,7 +464,7 @@ to others that You can do that
 
 * find Your passion, uncover Your "why"
 * perception is reality, develop a game plan, define Your brand
-* don't get benched, foucs on remaining relevant throughout Your entire career
+* don't get benched, focus on remaining relevant throughout Your entire career
 
 ### questions
 
