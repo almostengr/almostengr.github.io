@@ -3,7 +3,7 @@ title: NSBE 46 - Engineering the Revolution
 author: Kenny Robinson, @almostengr
 posted: 2020-08-20
 updated: 2020-08-20
-keywords: nsbe, nsbe46, engineering the revolution, nsbe convention
+keywords: nsbe, nsbe46, engineering the revolution, nsbe convention, workshops, mental health, personal branding, 
 ---
 
 ## Background
@@ -478,3 +478,29 @@ yourself based upon that
 connect to, not necessarily any person that can talk. Also mentors can be outside of your
 employer.
 * Be willing to open up to others. Get out of your comfort zone.
+
+## Mental Matters Live!
+
+### [@mentalmatterspodcast](https://mentalmatterspod.com)
+
+This one was not a presentation. It was more of an open discussion with the show hosts.
+
+* should have a solid top 5 people that you can go to for advice or assistance when you have a crisis
+* In your relationships, you have to find the balance between you and your partner
+* Everyone is not your friend. While you have gone through the same situations and challenges,
+that doesn't mean that they are friends. They can be aquaintances though
+* A therapist are not fixers. The therapist is there to sort out the confusion. You
+ultimately have to fix your problem
+* sometimes we need to have folks that will check us when we are about to make mistakes
+* be genuwine to yourself and impact those that are around you
+* you have to know sometimes that it is best to cut things off instead of trying to sustain them as a 
+difficult situation
+* Be happy for the success of others
+* Mem have a tendency to be tough and not really be vulerable about waht's really bothering them
+* When others say that they're fine, ask them "are they sure?" That can change the context of the conversation.
+* Schedule conversations with people just to make sure that they are good. 
+* how do you manage your relationships with your friends when they start relationships with new people?
+You have to have the conversation that things will change because of their new relationship. Should be able 
+to have those tough conversations, for the benefit for sustaining the relationship
+* disagreement does not equate to disrespect
+* Let your words be your hands. Know when to throw them, know when to use them.
