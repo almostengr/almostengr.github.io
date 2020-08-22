@@ -400,7 +400,7 @@ vocal power (don't be monotone)
 
 ### Recap
 
-* visible hands with explantory gestures
+* visible hands with explanatory gestures
 * eye contact
 * body posing
 * use Your lowest natural tone; don't get too excited; talk while breathing out
