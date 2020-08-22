@@ -9,24 +9,24 @@ keywords: nsbe, nsbe46, engineering the revolution, nsbe convention, workshops, 
 ## Background
 
 This convention was held virtually this year do to the coronavirus. The convention took place from August 19-23, 2020.
-Givne that the convention was hosted online, there were some opportunities to network with others, but
-not as many that you would normally have at an in-person convention.
+Given that the convention was hosted online, there were some opportunities to network with others, but
+not as many that You would normally have at an in-person convention.
 
 I have decided to publish my notes online so that I have them for future reference and for others
 to see what types of workshops were held.
 
 ## Personal Branding (Workshop) - 2020.08.20
 
-### What shapes your brand
+### What shapes Your brand
 
 * everyone and everything
 * be consistent
 * be genuine
 * follow examples
 
-### Crafting your personal brand
+### Crafting Your personal brand
 
-* 3 word to describe yourself
+* 3 word to describe Yourself
 * 3 words family and friends
 * 3 words peers/professors
 
@@ -36,83 +36,83 @@ to see what types of workshops were held.
 
 Looking for themes, similarities. Are there room to improve?
 
-#### do they reflect your "natural self"?
+#### do they reflect Your "natural self"?
 
 * how much energy does it take to show up a certain way?
 
-* think about the words that you want to keep. look at the various layers of your brand
+* think about the words that You want to keep. look at the various layers of Your brand
 
 ### best personal brands
 
-* show yourself in the best way possible
-* what do you want to be known for?
-* be your own CEO and control your image and assessing yourself
-* find what makes you unique, project that to your audience and be confident with it
+* show Yourself in the best way possible
+* what do You want to be known for?
+* be Your own CEO and control Your image and assessing Yourself
+* find what makes You unique, project that to Your audience and be confident with it
 
-* if you have to fake it, sometimes that indicates that you may be in the wrong environment
+* if You have to fake it, sometimes that indicates that You may be in the wrong environment
 
 ### social media question
 
-* social media and your brand: be confident in your brand; can you marry the two in a certain way
+* social media and Your brand: be confident in Your brand; can You marry the two in a certain way
 that attract audiences from both aspects
-* would your boss or parent, be ok with what you are posting? Is it part of your brand? This should
-be the foundational question that you ask yourself when posting content
-is there a theme that can tie the things you represent together? is your social media for a specific
+* would Your boss or parent, be ok with what You are posting? Is it part of Your brand? This should
+be the foundational question that You ask Yourself when posting content
+is there a theme that can tie the things You represent together? is Your social media for a specific
 aspect or for multiple aspects
-* find a common foundation in what you do if you have two professional brands that do not
+* find a common foundation in what You do if You have two professional brands that do not
 necessarily mix
 
 ### Closing comments
 
-* know yourself
+* know Yourself
 * be consistent
 * know that silence is not an option
 
 ## Leveling the Playing Field: The Art of Negotiation - 2020.08.20
 
 * majority of people would be willing to discuss their salary with someone of their own race
-* with higher starting salary, you will be paid more over 30 years compared to those that did not negotiate
+* with higher starting salary, You will be paid more over 30 years compared to those that did not negotiate
 * women will not negotiate as often as men will
 * Black men have a tendency to make less than their white men counterparts
 * women own about 40% of the businesses in US, but own get about 2.5 percent of the top jobs
 
-### your next level life
+### Your next level life
 
-* use your superpowers in your elevator speech
-* you can accelerate your career when you are uncomfortable. expand your horizons = growth
-* bring your true self to work. being authentic will make people question who you really are
-* have different levels of friends when building your network
+* use Your superpowers in Your elevator speech
+* You can accelerate Your career when You are uncomfortable. expand Your horizons = growth
+* bring Your true self to work. being authentic will make people question who You really are
+* have different levels of friends when building Your network
 
 ### questions
 
-* talk about what you can offer, this can help with opportunities that you can take in the future;
+* talk about what You can offer, this can help with opportunities that You can take in the future;
 allows for career advancement
-* see how marketable that you are; see what you're worth at a different company
-* sometimes, you can negotiate other things, like time off or location or remote work; sometimes
-you need to have the conversations with your manager about your situation
+* see how marketable that You are; see what You're worth at a different company
+* sometimes, You can negotiate other things, like time off or location or remote work; sometimes
+You need to have the conversations with Your manager about Your situation
 
-### Build your negotiation skills
+### Build Your negotiation skills
 
 * have to practice it
-* you don't get what you don't ask for
+* You don't get what You don't ask for
 * work should not be different when it comes to negotiation
 * [https://roberthalf.com/salary-guide](https://roberthalf.com/salary-guide) and [https://www.payscale.com/my/survey/choose](https://www.payscale.com/my/survey/choose) have salary information
 
 ### Prepare, Prepare, Prepare!
 
-* know what you can and cannot negotiate
-* if you get more, then you should bring more to the table
+* know what You can and cannot negotiate
+* if You get more, then You should bring more to the table
 * create a plan
-* create a mission statement - what is it that you want?
-* create a value statement - have a running list of accomplishments as you progress in your career
-* what are you willing to give up if your first ask (salary, vacation) is not available to negotiated
-* role pay before you have to negotiate
+* create a mission statement - what is it that You want?
+* create a value statement - have a running list of accomplishments as You progress in Your career
+* what are You willing to give up if Your first ask (salary, vacation) is not available to negotiated
+* role pay before You have to negotiate
 
 ### Execute: The Meeting
 
 * set up the conversation, mention in the meeting invite what the purpose of the meeting is
 * set the tone; friendly conversation; do not take it personally; do not overshare, try to stick to
-your point and value statement
+Your point and value statement
 * "go to the balcony"... other words, look at it from outside the box; there's a different view from the stage vs the audience
 
 ### interactive process
@@ -124,26 +124,26 @@ your point and value statement
 * use a pre-owned vehicle
 * use at least 20 percent as down payment
 
-### what's your money mindsets
+### what's Your money mindsets
 
-* overall objectives, your financial vision must compliment that vision
-* identify your priorities; avoid pitfalls, create a financial mission statement, diversity in
-your financial portfolio, assess the risks
+* overall objectives, Your financial vision must compliment that vision
+* identify Your priorities; avoid pitfalls, create a financial mission statement, diversity in
+Your financial portfolio, assess the risks
 
 ### money mindset
 
 * planning is key
-* pay yourself first; automate it if you can
+* pay Yourself first; automate it if You can
 * got to have an emergency fund; at least 6 months of expenses; this prevents unexpected from
-putting you in a bad financial situation
+putting You in a bad financial situation
 * have insurance; personal, property, identify theft, economic
-* once you have done the analysis, then change your habits and create additional income
+* once You have done the analysis, then change Your habits and create additional income
 
 ### Offensive moves
 
-* you spend most of your money on car, home, children, education, and retirement
+* You spend most of Your money on car, home, children, education, and retirement
 * excess spending and rent doesn't generate wealth
-* your home can be an asset and increase in value overtime
+* Your home can be an asset and increase in value overtime
 
 ### alleviate debt
 
@@ -152,33 +152,33 @@ putting you in a bad financial situation
 
 ### invest wisely
 
-* company savings plan - companies usually match a percentage of what you invest, thus increasing
-your net worth
-* HSA (health savings account) or FSA (flexible savings account) - help reduce your taxable income
+* company savings plan - companies usually match a percentage of what You invest, thus increasing
+Your net worth
+* HSA (health savings account) or FSA (flexible savings account) - help reduce Your taxable income
 
-### resources and tools that you can use
+### resources and tools that You can use
 
-* financial coach - focused on your financial education
-* financial advisor - focuses on your financial portfolio
-* you can have both or just one
+* financial coach - focused on Your financial education
+* financial advisor - focuses on Your financial portfolio
+* You can have both or just one
 
 ### use a budget
 
 * can use Excel, very manual process
-* apps are available; create profiles for each of your accounts; the services combine them and categorizes them
-* Cleo - accountability app with AI; it interacts with you about your finances
-* loan calculator - gives you an estimate about how much you will spend for a loan, such as monthly payment
-* retirement calculator - estimates how much you need to save now and what age you plan to retire;
-from that you can determine how to plan for retirement and the age you can retire
+* apps are available; create profiles for each of Your accounts; the services combine them and categorizes them
+* Cleo - accountability app with AI; it interacts with You about Your finances
+* loan calculator - gives You an estimate about how much You will spend for a loan, such as monthly payment
+* retirement calculator - estimates how much You need to save now and what age You plan to retire;
+from that You can determine how to plan for retirement and the age You can retire
 * [Robinhood](https://join.robinhood.com/kennyr61) - for investing in the stock market; free trades and provides financial related information
 
 * "The Millionaire Real Estate Investor" - book to checkout
 
 ## Professional Development: Maximizing You - 2020.08.20
 
-### Identifying your strengths
+### Identifying Your strengths
 
-* who are you? what do other see in you? what is your definition of success?
+* who are You? what do other see in You? what is Your definition of success?
 
 * my top 3 strengths: problem solving, putting things together, learning new things
 * my top 3 goals: entrepreneur, name associated with technology, retire early
@@ -186,44 +186,44 @@ from that you can determine how to plan for retirement and the age you can retir
 
 * Strength Finders - book recommendation
 
-### what's your intro? - exercise
+### what's Your intro? - exercise
 
-* what's your story? IT professional that has a tendency to build things that are both
+* what's Your story? IT professional that has a tendency to build things that are both
 technical and non-technical skillsets.
-* do others see what you see? me doing those things. Some say that I make it look easy, but
+* do others see what You see? me doing those things. Some say that I make it look easy, but
 some of it comes naturally. I'm able to explain things so that people in different fields can understand.
-* what is your brand? how do you get people to remember who you are?
+* what is Your brand? how do You get people to remember who You are?
 
 * do not be bashful about the things that we think that are important
 
 ### who knew?
 
-* do you have a mentor?
-* do you have a sponsor?
+* do You have a mentor?
+* do You have a sponsor?
 * what value they offer?
 
-* sponsor is one that will defend you and speak on your behalf when you are not there; helps you
+* sponsor is one that will defend You and speak on Your behalf when You are not there; helps You
 get to the next level
 
 ### exercise
 
-* who are your mentors? none
-* who are your sponsors? none
-* are they aware (recognize) of your strengths? brand?
+* who are Your mentors? none
+* who are Your sponsors? none
+* are they aware (recognize) of Your strengths? brand?
 
 * mentors can offer a different perspective on things, even if they have less experience or they're
-younger than yourself.
+Younger than Yourself.
 
 ### Final thoughts
 
-* you are your greatest asset
+* You are Your greatest asset
 * have an accountability partner
-* do you like nobody else and brand it
-* develop your personal board of directors; they have mentors or sponsors that are aligned
-with your goals; know who you are and what you are trying to achieve
+* do You like nobody else and brand it
+* develop Your personal board of directors; they have mentors or sponsors that are aligned
+with Your goals; know who You are and what You are trying to achieve
 * listening is a skill; invest time and effort in it
 
-* mentor is more like a coach; you can use them to bounce ideas off of; consult with them
+* mentor is more like a coach; You can use them to bounce ideas off of; consult with them
 on various aspects
 
 ## Building Open Source Applications with Azure App Services - 2020.08.20
@@ -239,39 +239,39 @@ on various aspects
 
 ## Courage in Today's Complex Corporate Climate: Leading the Work, Leading the People, Leading the Culture - 2020.08.21
 
-* have to be focused and drivie and deliver; who can take the project and complete it with the obstacles
+* have to be focused and driven and deliver; who can take the project and complete it with the obstacles
 that may come up
-* sometimes you have to take the opportunities that are presented instead of waiting on the opportunities
-that are given to you
+* sometimes You have to take the opportunities that are presented instead of waiting on the opportunities
+that are given to You
 * Gain understanding about why someone has refused to do an assignment. Sometimes it is not insubordination,
 but from a feeling of being overworked
-* Reality is that sometimes you are the only person of color that may be there.
-* The biggest difference can be whether you have opportunities. Not so much about the company being a
+* Reality is that sometimes You are the only person of color that may be there.
+* The biggest difference can be whether You have opportunities. Not so much about the company being a
 big supporter of diversity.
-* Identify people that you want to be in their position and what they have done or are doing to get or
-stay in that position. YOu can have them as a mentor or sponsor.
-* You have to be able to reach out. Step outside your comfort zone.
-* you don't need to be an experienced professional to be a change agent. You just need to be able to
+* Identify people that You want to be in their position and what they have done or are doing to get or
+stay in that position. You can have them as a mentor or sponsor.
+* You have to be able to reach out. Step outside Your comfort zone.
+* You don't need to be an experienced professional to be a change agent. You just need to be able to
 come up with new ideas and to improve existing workflows
-* dont necessarily need to leave if there are not many Blacks at the top of the organization. Representation
+* don't necessarily need to leave if there are not many Blacks at the top of the organization. Representation
 does matter as if we do not see those that look like us in the positions in where we want to go, we are
 less inclined to stay with that organization or employer
-* if you are in a position to make diversity happen, then do it. As mentioned, one of the panelists mentioned
+* if You are in a position to make diversity happen, then do it. As mentioned, one of the panelists mentioned
 that he prioritizing recommending Black people for opportunities and positions based off the skills
 that he knows about that person
 * in regards to COVID, it is important that employers are able to support their employees and have
 some flexibility given the circumstances.
 * because of social injustice, there are more discussions being held regarding the diversity of talent
-within the organization and how to make the companies at hirind diverse talent and improve the business
+within the organization and how to make the companies at hiring diverse talent and improve the business
 at the same time
 
 ## How to Interview at Amazon - Professionals
 
 didn't get to sit in on the entire session as I had another session that ended up getting cancelled
 
-* some of the points mentioned were that if you do not have a technical degree (i.e. business), that
-having a portfolio (ideally online) would be beneficial to you getting hired. That portfolio would
-demonstrate you skills.
+* some of the points mentioned were that if You do not have a technical degree (i.e. business), that
+having a portfolio (ideally online) would be beneficial to You getting hired. That portfolio would
+demonstrate You skills.
 
 ## Debt Free at 23: How I Paid Off $30,000+ Student Loans in One Year at 23!
 
@@ -279,102 +279,102 @@ demonstrate you skills.
 * @michobenjamin, michaelobenjamin.com, Michael Benjamin; presenter
 * self-awareness is the key
 * "The Power of Yet", principles are outlined, book recommendation
-* self-awareness is knowing who you are. your results will vary, but don't compare yourself to anybody
-else other than your previous self
-* using writing to manifest the things that you want. others may not understand, but you work
-on your goals - All my debts are cancelled!
-* what's your driving force? Less debt means less stress
-* the DISC assessment; helps you to know what your superpower is
+* self-awareness is knowing who You are. Your results will vary, but don't compare Yourself to anybody
+else other than Your previous self
+* using writing to manifest the things that You want. others may not understand, but You work
+on Your goals - All my debts are cancelled!
+* what's Your driving force? Less debt means less stress
+* the DISC assessment; helps You to know what Your superpower is
 * Eric Thomas - need to look into who he is
-* ET Extremee Execution Program
-* what's your superpower?   Pilot - D; Flight Attendant - I; Grounds Crew - S;
+* ET Extreme Execution Program
+* what's Your superpower?   Pilot - D; Flight Attendant - I; Grounds Crew - S;
 Air Traffic Controller - C    [flightassessment.com](flightassessment.com)
 * DEBT is a thief
-* youre not broke, you're on a financial transition
+* you're not broke, You're on a financial transition
 
 ### 3 steps - believe (spiritual), plan (mental), execute (physical)
 
-* believe - tell your spirit what to do; program yourself; you words feed your spirit;
+* believe - tell Your spirit what to do; program Yourself; You words feed Your spirit;
 * he did a 21-day fast
 * consider biweekly payments vs monthly payment - equates to an additional month of payments
 
-* plan - reframe your mindset to follow actionable steps
-* stretch yourself by creating a plan
+* plan - reframe Your mindset to follow actionable steps
+* stretch Yourself by creating a plan
 * comparison is a thief of joy
-* value your time; it is a finite resource
-* stop worrying about others and worry about yourself; how do you view yourself
-* if saving doesn't hurt you physically and emotionally, you're not doing enough
-* failure is going to happen; you have to change your perspective
+* value Your time; it is a finite resource
+* stop worrying about others and worry about Yourself; how do You view Yourself
+* if saving doesn't hurt You physically and emotionally, You're not doing enough
+* failure is going to happen; You have to change Your perspective
 
 #### parts of the plan
 
 * lifestyle
-* give - give to those in need ; not necessarily tithes; when you give, then you will get in return
+* give - give to those in need ; not necessarily tithes; when You give, then You will get in return
 * physical - exercise consistently and maintain; doing this creates consistently
 * spiritual - allow God to maximize my spiritual strength
 * mental - apply to daily reading and meditation
-* affirmations - tell you yourself that you can a get rid of your debt; consider doing 30 day
-challenges related to your finances
-* tell your money what you want it to do; not the other way around
+* affirmations - tell You Yourself that You can a get rid of Your debt; consider doing 30 day
+challenges related to Your finances
+* tell Your money what You want it to do; not the other way around
 
-* meditation exercise; improves your decision making and lowers stress
+* meditation exercise; improves Your decision making and lowers stress
 * Medication is temporary feeling; meditation is permanent healing
 * get off social media at least once per week; reduces FOMO (fear of missing out); a lot of
 people only post their best online instead of their entire life
-* have a free hobby - you'll save money by doing things that do not cost you
+* have a free hobby - You'll save money by doing things that do not cost You
 
-* budget - going to have to do it so that you know what you are doing with your money and what
-your money is doing; confirms that you are spending less than you make
-* when changing your spending habits, break it down into smaller steps
-* you are your own CFO; look at your finances as a business
+* budget - going to have to do it so that You know what You are doing with Your money and what
+Your money is doing; confirms that You are spending less than You make
+* when changing Your spending habits, break it down into smaller steps
+* You are Your own CFO; look at Your finances as a business
 
 * budget vs money system
 * need to leave room for guilt free spending
 * can't bring logic to an emotional situation; numbers are about logic as it is math
-* categorize your needs and wants
+* categorize Your needs and wants
 
-* once you categories needs vs wants;
+* once You categories needs vs wants;
 * rent shouldn't exceed 25 percent
-* allow 10 percent for saves; can be adjusted to 5 percent once you have $1k in savings
+* allow 10 percent for saves; can be adjusted to 5 percent once You have $1k in savings
 
-* bring in addition money through other sources. use that additional income to pay towards your
+* bring in addition money through other sources. use that additional income to pay towards Your
 debt. in addition, pay above the minimum amount
 
 ### Execute
 
 * generate money
-* what are your skills? talents?  sell stuff. Turo app. Amazon lighting deals
+* what are Your skills? talents?  sell stuff. Turo app. Amazon lighting deals
 
 * EAT (Execute and Thrive)
-* do what you say that you are going do and have planned for
-* consider free meals; allows you to use more money torwards debt payments
-* car should not be more than 20% of your income
+* do what You say that You are going do and have planned for
+* consider free meals; allows You to use more money towards debt payments
+* car should not be more than 20% of Your income
 * "A vision without execution is hallucination" - Thomas Edison
-* your debt should exceed your income
-* be humble - don't be afraid; sometimes you do need to have an ego check
-* write an affirmation and include the date of when you want it to be done by
+* Your debt should exceed Your income
+* be humble - don't be afraid; sometimes You do need to have an ego check
+* write an affirmation and include the date of when You want it to be done by
 
 ## The Power of Body Language
 
 ### hands and position
 
-* make sure that your hands are visible; keep them above the desk; avoid the pockets; use
-explainatory gestures (using your hands to explain, i.e. small vs big)
+* make sure that Your hands are visible; keep them above the desk; avoid the pockets; use
+explanatory gestures (using Your hands to explain, i.e. small vs big)
 * stiff (low), explanatory (ideal), and jazz hands (high)
-* trying to keep your hands in the chest area; on video, keep them in the frame
+* trying to keep Your hands in the chest area; on video, keep them in the frame
 
 ### handshakes
 
 * handshake audit - weak vs firm; what does it say about the person's personality?;
 vertical vs horizontal
-* dry your hands so that they aren't wet; shake vertical, horizontal shakes can mean dominate
+* dry Your hands so that they aren't wet; shake vertical, horizontal shakes can mean dominate
 or submissive (notice how President 45 does handshakes); mirrored firmness (don't give death
 grip, but not weak either);
 * if doing a video call, then do a wave and a smile
 
 ### eye contact
 
-* mutual gazing - synchronizes activity with what you are doing and helps you pick up on
+* mutual gazing - synchronizes activity with what You are doing and helps You pick up on
 social signals and clues
 * types of eye contact - power gazing (looking between eyes and forehead), social gazing (focus
 between the eyes and the mouth), intimate gazing (from eyes to bottom of neck)
@@ -386,98 +386,98 @@ between the eyes and the mouth), intimate gazing (from eyes to bottom of neck)
 * we look for winners
 * high power - head high, arms wide, chest open
 * low power - head down, arms closed off, shoulders rolled, looking sad
-* check your phone like a pro - do it closer to but not all the way on the high power side;
+* check Your phone like a pro - do it closer to but not all the way on the high power side;
 refrain from the low power side
 * there are seating power positions as well; ideally want to be in the middle; pay attention
 to this more in the video call
 
 ### Video call tips
 
-* before: lighting, gear (headphones vs speakers), dress to impress, prepare your background
+* before: lighting, gear (headphones vs speakers), dress to impress, prepare Your background
 visual and audio
 * during: smile and wave, look at the dot (light on webcam), hand gestures,
-vocal power (dont be monotone)
+vocal power (don't be monotone)
 
 ### Recap
 
 * visible hands with explantory gestures
 * eye contact
 * body posing
-* use your lowest natural tone; dont get too excited; talk while breathing out
+* use Your lowest natural tone; don't get too excited; talk while breathing out
 
 ### What next?
 
-* digitial first impress audio
-* record your elevator pitch
-* pay attention to what you do with your first impression of meeting somebody
+* digital first impress audio
+* record Your elevator pitch
+* pay attention to what You do with Your first impression of meeting somebody
 * [www.scienceofpeople.com](www.scienceofpeople.com)
 
 ## So You Think You're Too Old
 
 * based on their scale, I'm in Prime of my career; also that I enjoy my career
-* find your passion, find your purpose; your passion will lead you to your purpose;
-is your passion visible to the organization? do you have skills and knowledge to complement
-your passion?
-* you need to be your own brand ambassador
-* if you do not like how you are perceived, then you need to change your brand
-* you are not alone in branding yourself
+* find Your passion, find Your purpose; Your passion will lead You to Your purpose;
+is Your passion visible to the organization? do You have skills and knowledge to complement
+Your passion?
+* You need to be Your own brand ambassador
+* if You do not like how You are perceived, then You need to change Your brand
+* You are not alone in branding Yourself
 
-### develop your game plan
+### develop Your game plan
 
-* self assess yourself, then take action
-* what are you good at? what is your passion?
-* how would you describe yourself?
-* how would those close to you (influencers, work-mates) describe you?
-* based on your self-assessment, identify gaps and compose your brand statement
-* if you don't like the narrative, stop complaining and do something about it; then find
-duties or jobs that leverage the skills that you have and want to do
+* self assess Yourself, then take action
+* what are You good at? what is Your passion?
+* how would You describe Yourself?
+* how would those close to You (influencers, work-mates) describe You?
+* based on Your self-assessment, identify gaps and compose Your brand statement
+* if You don't like the narrative, stop complaining and do something about it; then find
+duties or jobs that leverage the skills that You have and want to do
 
-### you have to stay in the game
+### You have to stay in the game
 
-* keep yourself relevant
-* if you want to know the way, ask someone who has been there    -Chinese Proverb
-* what you deliver on the job is different from what others bring to the job; thus creating your
-uniqueness to your career
+* keep Yourself relevant
+* if You want to know the way, ask someone who has been there    -Chinese Proverb
+* what You deliver on the job is different from what others bring to the job; thus creating Your
+uniqueness to Your career
 
 ### personal development
 
-* you're responsible for your development, not your employer; as time goes
-on, your assignments will be driven by the business need; build yourself a toolkit
+* You're responsible for Your development, not Your employer; as time goes
+on, Your assignments will be driven by the business need; build Yourself a toolkit
 * get the most out of each assignment;
-* be interested in the work that your peers are doing; sometimes be willing to help, so that
-you can build capacity and to increase your skills; helping others now when you have knowledge,
-* self-study - continue to learn and develop yourself
-* expand your focus, don't box yourself in; expand your influence
+* be interested in the work that Your peers are doing; sometimes be willing to help, so that
+You can build capacity and to increase Your skills; helping others now when You have knowledge,
+* self-study - continue to learn and develop Yourself
+* expand Your focus, don't box Yourself in; expand Your influence
 
-### understand how you are going to be graded
+### understand how You are going to be graded
 
 * understand what the rules are; some of them change, some are static;
 
-### what's your product? what do you produce?
+### what's Your product? what do You produce?
 
-* your product is the thing that you deliver;
-* you as an engineer are in the business of creating solutions, and you have to sell yourself
-to others that you can do that
-* you have to have the credibility
+* Your product is the thing that You deliver;
+* You as an engineer are in the business of creating solutions, and You have to sell Yourself
+to others that You can do that
+* You have to have the credibility
 
 ### recap
 
-* find your passion, uncover your "why"
-* perception is reality, develop a game plan, define your brand
-* dont get benched, foucs on remaining relevant throughout your entire career
+* find Your passion, uncover Your "why"
+* perception is reality, develop a game plan, define Your brand
+* don't get benched, foucs on remaining relevant throughout Your entire career
 
 ### questions
 
-* if you are not receiving new opportunities, although you are a good performer and have a good
-reputation, then you may have to use your mentors or board of directors to get those
-opportunities and to vouch for you
+* if You are not receiving new opportunities, although You are a good performer and have a good
+reputation, then You may have to use Your mentors or board of directors to get those
+opportunities and to vouch for You
 * find who are the top performers and take note to what they are doing. then build and improve
-yourself based upon that
-* hold your managers accountable for helping you through your career
-* True mentor relationships are give and take. Also needs to be with people that you true can
-connect to, not necessarily any person that can talk. Also mentors can be outside of your
+Yourself based upon that
+* hold Your managers accountable for helping You through Your career
+* True mentor relationships are give and take. Also needs to be with people that You true can
+connect to, not necessarily any person that can talk. Also mentors can be outside of Your
 employer.
-* Be willing to open up to others. Get out of your comfort zone.
+* Be willing to open up to others. Get out of Your comfort zone.
 
 ## Mental Matters Live!
 
@@ -485,22 +485,22 @@ employer.
 
 This one was not a presentation. It was more of an open discussion with the show hosts.
 
-* should have a solid top 5 people that you can go to for advice or assistance when you have a crisis
-* In your relationships, you have to find the balance between you and your partner
-* Everyone is not your friend. While you have gone through the same situations and challenges,
-that doesn't mean that they are friends. They can be aquaintances though
+* should have a solid top 5 people that You can go to for advice or assistance when You have a crisis
+* In Your relationships, You have to find the balance between You and Your partner
+* Everyone is not Your friend. While You have gone through the same situations and challenges,
+that doesn't mean that they are friends. They can be acquaintances though
 * A therapist are not fixers. The therapist is there to sort out the confusion. You
-ultimately have to fix your problem
+ultimately have to fix Your problem
 * sometimes we need to have folks that will check us when we are about to make mistakes
-* be genuwine to yourself and impact those that are around you
-* you have to know sometimes that it is best to cut things off instead of trying to sustain them as a 
+* be genuine to Yourself and impact those that are around You
+* You have to know sometimes that it is best to cut things off instead of trying to sustain them as a 
 difficult situation
 * Be happy for the success of others
-* Mem have a tendency to be tough and not really be vulerable about waht's really bothering them
+* Men have a tendency to be tough and not really be vulnerable about what's really bothering them
 * When others say that they're fine, ask them "are they sure?" That can change the context of the conversation.
 * Schedule conversations with people just to make sure that they are good. 
-* how do you manage your relationships with your friends when they start relationships with new people?
+* how do You manage Your relationships with Your friends when they start relationships with new people?
 You have to have the conversation that things will change because of their new relationship. Should be able 
 to have those tough conversations, for the benefit for sustaining the relationship
 * disagreement does not equate to disrespect
-* Let your words be your hands. Know when to throw them, know when to use them.
+* Let Your words be Your hands. Know when to throw them, know when to use them.

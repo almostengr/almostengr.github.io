@@ -7,7 +7,7 @@ Webdriver
 fg9AgEkuy9o
 https
 www
-youtube
+Youtube
 github
 https
 seleniumtutorial
@@ -86,7 +86,7 @@ FarmOS
 NWS
 NACCP
 Kdenlive
-kdenlivetoyoutube
+kdenlivetoYoutube
 github
 https
 raspitraffic
@@ -124,3 +124,11 @@ microsoft
 coronavirus
 th
 Twitch
+michobenjamin
+flightassessment
+reframe
+FOMO
+Turo
+scienceofpeople
+influencers
+mentalmatterspodcast
