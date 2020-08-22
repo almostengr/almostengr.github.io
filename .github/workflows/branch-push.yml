@@ -1,0 +1,31 @@
+name: Build branch on push
+
+on:
+  push: 
+    branches: ['*', '!mkdocs', '!master']
+
+  pull_request:
+    branches: ['*']
+
+# help with variables https://github.com/actions/checkout
+
+jobs:
+
+  spelling:
+    name: Check Spelling
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checking out repository ${{ github.event.pull_request.head.sha }}
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+
+    - name: Remove duplicates from and sort wordlist
+      run: (/bin/cat .wordlist.txt | /usr/bin/sort | /usr/bin/uniq) > .wordlist.tmp
+
+    - name: Moving cleaned wordlist
+      run: /bin/mv .wordlist.tmp .wordlist.txt
+
+    - uses: rojopolis/spellcheck-github-actions@0.5.0
+      name: Spellcheck
