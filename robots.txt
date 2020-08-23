@@ -1,4 +1,5 @@
 User-agent: *
 Crawl-delay: 10
 Allow: /
+Disallow: /404
 Sitemap: https://almostengr.github.io/sitemap.xml
