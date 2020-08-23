@@ -1,6 +1,7 @@
 ---
 posted: 2019-05-09 06:00:00
 updated: 2020-02-01 13:22:27
+keywords: walking, exercise, pedometer, physical activity, fitness, how to get more steps
 ---
 
 # 7 Steps for More Steps
