@@ -6,6 +6,8 @@ updated: 2020-08-20
 keywords: nsbe, nsbe46, engineering the revolution, nsbe convention, workshops, mental health, personal branding, 
 ---
 
+![NSBE 46th Annual Convention](/images/2020.08.20-nsbe-46-engineering-the-revolution-notes.jpg)
+
 ## Background
 
 This convention was held virtually this year do to the coronavirus. The convention took place from August 19-23, 2020.
