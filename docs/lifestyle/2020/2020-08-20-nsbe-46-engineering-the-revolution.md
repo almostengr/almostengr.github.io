@@ -1,5 +1,5 @@
 ---
-title: NSBE 46 - Engineering the Revolution
+title: NSBE 46th National Convention - Engineering the Revolution
 author: Kenny Robinson, @almostengr
 posted: 2020-08-20
 updated: 2020-08-20
@@ -98,7 +98,8 @@ You need to have the conversations with Your manager about Your situation
 * have to practice it
 * You don't get what You don't ask for
 * work should not be different when it comes to negotiation
-* [https://roberthalf.com/salary-guide](https://roberthalf.com/salary-guide) and [https://www.payscale.com/my/survey/choose](https://www.payscale.com/my/survey/choose) have salary information
+* [https://roberthalf.com/salary-guide](https://roberthalf.com/salary-guide) and 
+[https://www.payscale.com/my/survey/choose](https://www.payscale.com/my/survey/choose) have salary information
 
 ### Prepare, Prepare, Prepare!
 
@@ -267,7 +268,7 @@ some flexibility given the circumstances.
 within the organization and how to make the companies at hiring diverse talent and improve the business
 at the same time
 
-## How to Interview at Amazon - Professionals
+## How to Interview at Amazon, Professionals - 2020.08.21
 
 didn't get to sit in on the entire session as I had another session that ended up getting cancelled
 
@@ -275,7 +276,7 @@ didn't get to sit in on the entire session as I had another session that ended u
 having a portfolio (ideally online) would be beneficial to You getting hired. That portfolio would
 demonstrate You skills.
 
-## Debt Free at 23: How I Paid Off $30,000+ Student Loans in One Year at 23!
+## Debt Free at 23: How I Paid Off $30,000+ Student Loans in One Year at 23! - 2020.08.21
 
 * Golden One Dream
 * @michobenjamin, michaelobenjamin.com, Michael Benjamin; presenter
@@ -356,7 +357,7 @@ debt. in addition, pay above the minimum amount
 * be humble - don't be afraid; sometimes You do need to have an ego check
 * write an affirmation and include the date of when You want it to be done by
 
-## The Power of Body Language
+## The Power of Body Language - 2020.08.21
 
 ### hands and position
 
@@ -481,11 +482,11 @@ connect to, not necessarily any person that can talk. Also mentors can be outsid
 employer.
 * Be willing to open up to others. Get out of Your comfort zone.
 
-## Mental Matters Live!
+## Mental Matters Live! - 2020.08.22
 
-### [@mentalmatterspodcast](https://mentalmatterspod.com)
+### [@mentalmatterspodcast](https://www.mentalmatterspod.com)
 
-This one was not a presentation. It was more of an open discussion with the show hosts.
+This one was not a presentation. It was more of an open discussion with the show hosts and attendees
 
 * should have a solid top 5 people that You can go to for advice or assistance when You have a crisis
 * In Your relationships, You have to find the balance between You and Your partner
