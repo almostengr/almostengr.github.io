@@ -4,6 +4,7 @@ category: lifestyle
 posted: 2020-03-31
 updated: 2020-08-30
 keywords: investing, finanaces, financial advice, stock market
+author: Kenny Robinson, @almostengr
 ---
 
 ## Background
@@ -17,6 +18,9 @@ so that others may learn what was shared in the session.
 
 This particular course was done by a guy know as teh Wall Street Trapper.
 
+*NOTE: This is information was not provided by a licensed financial adviser. You take upon yourself the 
+risk of the financial information provided or risks associated with it.
+
 ## Notes
 
 ### RULES
@@ -27,8 +31,6 @@ This particular course was done by a guy know as teh Wall Street Trapper.
 * Expand
 * Simplicity
 
-* dividend yield = percentage of each $100 that you would get when dividends are paid out
-
 ### Market Types
 
 * "bull" means the market is up
@@ -37,6 +39,9 @@ This particular course was done by a guy know as teh Wall Street Trapper.
 * have a business with edge
 * be a bear = assets on discounts
 
+### Other Notes
+
+* dividend yield = percentage of each $100 that you would get when dividends are paid out
 * become time rich, it increase your freedom
 * freedom price = the price to live without working
 * ask how critical is business before investin
