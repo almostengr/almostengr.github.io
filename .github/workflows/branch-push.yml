@@ -2,7 +2,7 @@ name: Build branch on push
 
 on:
   push: 
-    branches: ['*', '!mkdocs', '!master']
+    branches: ['*', '!markdown', '!master']
 
   pull_request:
     branches: ['*']

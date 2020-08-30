@@ -2,9 +2,9 @@ name: Generate static pages
 
 on:
   push: 
-    branches: [ mkdocs ]
+    branches: [ markdown ]
   pull_request:
-    branches: [ mkdocs ]
+    branches: [ markdown ]
 
 jobs:
   spelling:
