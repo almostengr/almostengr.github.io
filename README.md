@@ -7,7 +7,7 @@ This repository contains the content for my hobby website,
 
 ## Branches
 
-### mkdocs (default)
+### markdown (default)
 
 The Markdown files that the website is built from.
 
