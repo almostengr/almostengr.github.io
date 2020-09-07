@@ -1,4 +1,7 @@
-# 21 Days of Prayer and Fasting
+---
+title: 21 Days of Prayer and Fasting
+posted: 2020-01-04
+---
 
 ![Post about using social media more intently](/images/2020.01.04-21-days-of-prayer-and-fasting.png)
 

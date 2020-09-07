@@ -1,9 +1,9 @@
 ---
 category: gardening
-date: 2019-03-16 09:30:02
+posted: 2019-03-16 09:30:02
+title: Manual Tree Branch Tear Down
+author: Kenny Robinson
 ---
-
-# Manual Tree Branch Tear Down
 
 <iframe src="https://www.youtube.com/embed/X1fOSaVnS20" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 

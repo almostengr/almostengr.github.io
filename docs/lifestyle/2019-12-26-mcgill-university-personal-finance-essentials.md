@@ -1,4 +1,6 @@
-﻿# McGill University Personal Finance Essentials
+﻿---
+title: McGill University Personal Finance Essentials
+---
 
 ![](/images/2019.12.26-mcgil university.png)
 

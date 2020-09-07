@@ -1,9 +1,9 @@
 ---
 posted: 2019-04-10 06:40:42
 updated: 2019-06-26 20:23:35
+title: How to Start A Garden in 8 Steps
+author: Kenny Robinson
 ---
-
-# How to Start A Garden in 8 Steps
 
 ![](/images/2019.04.10-20190409_180534.jpg)
 

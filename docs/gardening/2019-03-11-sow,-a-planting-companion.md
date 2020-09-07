@@ -1,9 +1,9 @@
 ---
-Posted: 2019-03-11 22:45:26
+posted: 2019-03-11 22:45:26
 updated: 2019-03-11 23:23:43
+title: Sow, A Planting Companion
+author: Kenny Robinson
 ---
-
-# Sow, A Planting Companion
 
 ## What is the Cooperative Extension?
 

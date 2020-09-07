@@ -1,5 +1,5 @@
 ﻿---
-title: Word of the Year
+title: Word of the Year 2020
 date: 2020-01-03
 description: How I went about choosing a word of the year
 author: Kenny Robinson, @almostengr

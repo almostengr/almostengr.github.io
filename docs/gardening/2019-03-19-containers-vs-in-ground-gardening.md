@@ -1,9 +1,9 @@
 ---
 posted: 2019-03-19 20:26:08
 updated: 2019-06-26 20:20:43
+title: Containers vs In Ground Gardening
+author: Kenny Robinson
 ---
-
-# Containers vs In Ground Gardening
 
 ![](/images/2019.03.19-42625680_247595219445490_1775194796883580723_n.jpg)
 

@@ -1,4 +1,8 @@
-# January 2020 Garden Update
+---
+title: January 2020 Garden Update
+author: Kenny Robinson
+posted: 2020-01-25
+---
 
 ## Red Lettuce
 
