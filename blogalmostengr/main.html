@@ -107,19 +107,13 @@
 
     <div class="nav-scroller py-1 mb-2">
       <nav class="nav d-flex justify-content-between">
-        <a class="p-2 text-muted" href="/contact/">Contact</a>
-        <a class="p-2 text-muted" href="/about">About</a>
-        <!-- <a class="p-2 text-muted" href="#">Technology</a>
-        <a class="p-2 text-muted" href="#">Design</a>
-        <a class="p-2 text-muted" href="#">Culture</a>
-        <a class="p-2 text-muted" href="#">Business</a>
-        <a class="p-2 text-muted" href="#">Politics</a>
-        <a class="p-2 text-muted" href="#">Opinion</a>
-        <a class="p-2 text-muted" href="#">Science</a>
-        <a class="p-2 text-muted" href="#">Health</a>
-        <a class="p-2 text-muted" href="#">Style</a>
-        <a class="p-2 text-muted" href="#">Travel</a> -->
-      </nav>
+          <a class="p-2 text-muted" href="/about">About</a>
+          <a class="p-2 text-muted" href="/lifestyle">Lifestyle</a>
+          <a class="p-2 text-muted" href="/gardening">Gardening</a>
+          <a class="p-2 text-muted" href="/portfolio">Portfolio</a>
+          <a class="p-2 text-muted" href="/speaking">Speaking</a>
+          <a class="p-2 text-muted" href="/contact/">Contact</a>
+        </nav>
     </div>
 
     <!-- featured post -->
@@ -133,13 +127,13 @@
         <h1 class="display-4 font-italic">{{ nav_child.title }}</h1>
         <p class="lead my-3">
           {% if nav_child.meta.description %}
-          {{ nav_child.meta.description }}
+          {{ nav_child.meta.description | striptags }}
           {% else %}
           {{ nav_child.content | striptags | truncate(150) }}
           {% endif %}
         </p>
-        <p class="lead mb-0"><a href="{{ nav_child.url | url }}" class="text-white font-weight-bold">Continue
-            reading...</a></p>
+        <p class="lead mb-0"><a href="{{ nav_child.url | url }}" 
+          class="text-white font-weight-bold">Continue reading...</a></p>
       </div>
     </div>
     {% endif %}
@@ -169,9 +163,27 @@
               {% endif %}
             {% endfor %}
 
-          {% elif 'lifestyle' in page.url or 
-            'gardening' in page.url or 
-            'speaking' in page.url %}
+          {% elif page.title == 'Lifestyle' or page.title == "Gardening" or page.title == "Speaking" %}
+            <!-- displaying posts by category -->
+            <h1 class="">{{ page.meta.title }}</h1>
+            <p>{{ page.content }}</p>
+            {% for nav_item in nav %}
+              {% if nav_item.children %}
+                {% for nav_child in nav_item.children | reverse %}
+                  {% if 'lifestyle' in nav_child.url and 'Lifestyle' == page.title %}
+                    <a href="{{ nav_child.url | url }}">{{ nav_child.title }}</a><br />
+
+                  {% elif 'gardening' in nav_child.url and 'Gardening' == page.title %}
+                    <a href="{{ nav_child.url | url }}">{{ nav_child.title }}</a><br />
+
+                  {% elif 'speaking' in nav_child.url and 'Speaking' == page.title %}
+                    <a href="{{ nav_child.url | url }}">{{ nav_child.title }}</a><br />
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+
+          {% elif 'lifestyle' in page.url or '/gardening' in page.url or '/speaking' in page.url %}
             <!-- if displaying blog post -->
             <div class="blog-post">
               {% if page.meta.title %}
@@ -182,7 +194,7 @@
                 {% endif %}
 
                 {% if page.meta.author and page.meta.authorlink %}
-                by <a href="{{ page.meta.authorlink}}" target="_blank">{{ page.meta.author }}</a>
+                by <a href="{{ page.meta.authorlink | url }}" target="_blank">{{ page.meta.author }}</a>
                 {% elif page.meta.author %}
                 by {{ page.meta.author }}
                 {% endif %}
@@ -198,17 +210,12 @@
             </div>
 
           {% else %}
+            {% if page.meta.title %}
+              <h1>{{ page.meta.title }}</h1>
+            {% endif %}
             <p>{{ page.content }}</p>
           {% endif %}
 
-          <div class="p-4 bg-light">
-            <h4 class="font-italic">Elsewhere</h4>
-            <ol class="list-unstyled">
-              <li><a href="https://github.com/almostengr" target="_blank">GitHub</a></li>
-              <li><a href="https://www.instagram.com/almostengr" target="_blank">Instagram</a></li>
-              <li><a href="https://twitter.com/almostengr" target="_blank">Twitter</a></li>
-            </ol>
-          </div>
         </div>
         <!-- /.blog-main -->
 
@@ -237,10 +244,26 @@
     </main>
     <!-- /.container -->
 
-    <div class="m-3">
+    <div class="p-2"></div>
+
+    <div class="p-4 bg-light">
+      <h4>Sponsor</h4>
       <script data-ad-client="ca-pub-4218270188842097" async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </div>
+
+    <div class="p-2"></div>
+
+    <div class="p-4 bg-light">
+      <h4 class="font-italic">Find Me Elsewhere</h4>
+      <ol class="list-unstyled">
+        <li><a href="https://github.com/almostengr" target="_blank">GitHub</a></li>
+        <li><a href="https://www.instagram.com/almostengr" target="_blank">Instagram</a></li>
+        <li><a href="https://twitter.com/almostengr" target="_blank">Twitter</a></li>
+      </ol>
+    </div>
+
+    <div class="p-2"></div>
 
     <footer class="blog-footer bg-dark">
       <p><a href="#">Back to top</a></p>

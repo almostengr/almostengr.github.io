@@ -291,7 +291,7 @@ on Your goals - All my debts are cancelled!
 * Eric Thomas - need to look into who he is
 * ET Extreme Execution Program
 * what's Your superpower?   Pilot - D; Flight Attendant - I; Grounds Crew - S;
-Air Traffic Controller - C    [flightassessment.com](flightassessment.com)
+Air Traffic Controller - C    [flightassessment.com](https://flightassessment.com)
 * DEBT is a thief
 * you're not broke, You're on a financial transition
 
@@ -413,7 +413,7 @@ vocal power (don't be monotone)
 * digital first impress audio
 * record Your elevator pitch
 * pay attention to what You do with Your first impression of meeting somebody
-* [www.scienceofpeople.com](www.scienceofpeople.com)
+* [www.scienceofpeople.com](https://www.scienceofpeople.com)
 
 ## So You Think You're Too Old
 

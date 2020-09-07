@@ -12,21 +12,6 @@ google_analytics: ['UA-64643711-2', 'almostengr.github.io']
 theme:
   name: null
   custom_dir: blogalmostengr
-  language: en
-  # features: tabs
-  # palette:
-  #   primary: black
-  #   accent: 'light blue'
-  # icon:
-  #   logo: material/library
-  #   repo: fontawesome/brands/git-alt
-  # font:
-  #   text: Ubuntu
-  #   code: Ubuntu Mono
-  # search_index_only: true
-  # direction: ltr
-  # static_templates:
-  #   - 404.html
 
 copyright: Copyright &copy; 2015-2020 Kenny Robinson
 
