@@ -7,8 +7,6 @@ site_author: Kenny Robinson, @almostengr
 remote_branch: master
 remote_name: origin
 
-google_analytics: ['UA-64643711-2', 'almostengr.github.io']
-
 theme:
   name: null
   custom_dir: blogalmostengr
