@@ -65,16 +65,14 @@
       }
     }
   </style>
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" async rel="stylesheet">
   <link href="/css/blog.css" rel="stylesheet">
-  <link href="/css/almostengr.css" rel="stylesheet">
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64643711-2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-
     gtag('config', 'UA-64643711-2');
   </script>
   <script data-ad-client="ca-pub-4218270188842097" async
@@ -150,102 +148,60 @@
     {% endfor %}
     {% endif %}
 
-    <!-- <div class="row mb-2">
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-primary">World</strong>
-            <h3 class="mb-0">Featured post</h3>
-            <div class="mb-1 text-muted">Nov 12</div>
-            <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to
-              additional content.</p>
-            <a href="#" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block">
-            <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
-              preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
-              <title>Placeholder</title>
-              <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                dy=".3em">Thumbnail</text>
-            </svg>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-success">Design</strong>
-            <h3 class="mb-0">Post title</h3>
-            <div class="mb-1 text-muted">Nov 11</div>
-            <p class="mb-auto">This is a wider card with supporting text below as a natural lead-in to additional
-              content.</p>
-            <a href="#" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block">
-            <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
-              preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
-              <title>Placeholder</title>
-              <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef"
-                dy=".3em">Thumbnail</text>
-            </svg>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-
     <main role="main" class="container">
       <div class="row">
         <div class="blog-main">
           {% if page.is_homepage %}
-          {% for nav_item in nav %}
-          {% if nav_item.children %}
-          {% for nav_child in nav_item.children | reverse %}
-          {% if loop.index <= 3 %}
-          {% if 'lifestyle' in nav_child.url or 
-                    'gardening' in nav_child.url or 
-                    'speaking' in nav_child.url %}
-          <p>
-            <a href="{{ nav_child.url | url }}">{{ nav_child.title | title }}</a><br />
-            {{ nav_child.content | striptags | truncate(150) }}
-          </p>
-          {% endif %}
-          {% endif %}
-          {% endfor %}
-          {% endif %}
-          {% endfor %}
-          {% endif %}
+            {% for nav_item in nav %}
+              {% if nav_item.children %}
+                {% for nav_child in nav_item.children | reverse %}
+                  {% if loop.index <= 3 %}
+                    {% if 'lifestyle' in nav_child.url or 
+                              'gardening' in nav_child.url or 
+                              'speaking' in nav_child.url %}
+                    <p>
+                      <a href="{{ nav_child.url | url }}">{{ nav_child.title | title }}</a><br />
+                      {{ nav_child.content | striptags | truncate(150) }}
+                    </p>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
 
-          {% if 'lifestyle' in page.url or 
+          {% elif 'lifestyle' in page.url or 
             'gardening' in page.url or 
             'speaking' in page.url %}
-          <!-- if displaying blog post -->
-          <div class="blog-post">
-            {% if page.meta.title %}
-            <h1 class="blog-post-title">{{ page.meta.title }}</h1>
-            <p class="blog-post-meta">
-              {% if page.meta.posted %}
-              {{ page.meta.posted }}
-              {% endif %}
+            <!-- if displaying blog post -->
+            <div class="blog-post">
+              {% if page.meta.title %}
+              <h1 class="blog-post-title">{{ page.meta.title }}</h1>
+              <p class="blog-post-meta">
+                {% if page.meta.posted %}
+                {{ page.meta.posted }}
+                {% endif %}
 
-              {% if page.meta.author and page.meta.authorlink %}
-              by <a href="{{ page.meta.authorlink}}" target="_blank">{{ page.meta.author }}</a>
-              {% elif page.meta.author %}
-              by {{ page.meta.author }}
-              {% endif %}
+                {% if page.meta.author and page.meta.authorlink %}
+                by <a href="{{ page.meta.authorlink}}" target="_blank">{{ page.meta.author }}</a>
+                {% elif page.meta.author %}
+                by {{ page.meta.author }}
+                {% endif %}
 
-              {% if page.meta.updated %}
-              Updated: {{ page.meta.updated }}
+                {% if page.meta.updated %}
+                Updated: {{ page.meta.updated }}
+                {% endif %}
+              </p>
+
+              {{ page.content }}
+
               {% endif %}
-            </p>
-            {% endif %}
+            </div>
+
+          {% else %}
             <p>{{ page.content }}</p>
-          </div>
           {% endif %}
 
-          <div class="p-4 bg-dark">
+          <div class="p-4 bg-light">
             <h4 class="font-italic">Elsewhere</h4>
             <ol class="list-unstyled">
               <li><a href="https://github.com/almostengr" target="_blank">GitHub</a></li>
@@ -263,24 +219,6 @@
               My Kenny. I have this as my second blog where I talk about a lot of
             </p>
           </div> -->
-
-        <!-- <div class="p-4">
-          <h4 class="font-italic">Archives</h4>
-          <ol class="list-unstyled mb-0">
-            <li><a href="#">March 2014</a></li>
-            <li><a href="#">February 2014</a></li>
-            <li><a href="#">January 2014</a></li>
-            <li><a href="#">December 2013</a></li>
-            <li><a href="#">November 2013</a></li>
-            <li><a href="#">October 2013</a></li>
-            <li><a href="#">September 2013</a></li>
-            <li><a href="#">August 2013</a></li>
-            <li><a href="#">July 2013</a></li>
-            <li><a href="#">June 2013</a></li>
-            <li><a href="#">May 2013</a></li>
-            <li><a href="#">April 2013</a></li>
-          </ol>
-        </div> -->
 
         <!-- <div class="p-4">
             <h4 class="font-italic">Elsewhere</h4>
