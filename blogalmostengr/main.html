@@ -66,7 +66,8 @@
     }
   </style>
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" async rel="stylesheet">
-  <link href="/css/blog.css" rel="stylesheet">
+  <link href="/css/blog.min.css" rel="stylesheet">
+  <link href="/css/almostengr.min.css" rel="stylesheet">
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64643711-2"></script>
   <script>
@@ -90,7 +91,7 @@
           <a class="blog-header-logo text-dark" href="/">{{ config.site_name }}</a>
         </div>
         <div class="col-4 d-flex justify-content-end align-items-center">
-          <!-- 
+          <!--
             <a class="text-muted" href="#" aria-label="Search">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor"
               stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img"
@@ -99,7 +100,7 @@
               <circle cx="10.5" cy="10.5" r="7.5" />
               <path d="M21 21l-5.2-5.2" />
             </svg>
-          </a> 
+          </a>
         -->
         </div>
       </div>
@@ -110,8 +111,8 @@
           <a class="p-2 text-muted" href="/about">About</a>
           <a class="p-2 text-muted" href="/lifestyle">Lifestyle</a>
           <a class="p-2 text-muted" href="/gardening">Gardening</a>
+          <a class="p-2 text-muted" href="/cooking">Cooking</a>
           <a class="p-2 text-muted" href="/portfolio">Portfolio</a>
-          <a class="p-2 text-muted" href="/speaking">Speaking</a>
           <a class="p-2 text-muted" href="/contact/">Contact</a>
         </nav>
     </div>
@@ -132,7 +133,7 @@
           {{ nav_child.content | striptags | truncate(150) }}
           {% endif %}
         </p>
-        <p class="lead mb-0"><a href="{{ nav_child.url | url }}" 
+        <p class="lead mb-0"><a href="{{ nav_child.url | url }}"
           class="text-white font-weight-bold">Continue reading...</a></p>
       </div>
     </div>
@@ -150,9 +151,10 @@
               {% if nav_item.children %}
                 {% for nav_child in nav_item.children | reverse %}
                   {% if loop.index <= 3 %}
-                    {% if 'lifestyle' in nav_child.url or 
-                              'gardening' in nav_child.url or 
-                              'speaking' in nav_child.url %}
+                    {% if 'lifestyle' in nav_child.url or
+                              'gardening' in nav_child.url or
+                              'speaking' in nav_child.url or
+                              'cooking' in nav_child.url %}
                     <p>
                       <a href="{{ nav_child.url | url }}">{{ nav_child.title | title }}</a><br />
                       {{ nav_child.content | striptags | truncate(150) }}
@@ -163,7 +165,8 @@
               {% endif %}
             {% endfor %}
 
-          {% elif page.title == 'Lifestyle' or page.title == "Gardening" or page.title == "Speaking" %}
+          {% elif page.title == 'Lifestyle' or page.title == "Gardening"
+             or page.title == "Speaking" or page.title == "Cooking" %}
             <!-- displaying posts by category -->
             <h1 class="">{{ page.meta.title }}</h1>
             <p>{{ page.content }}</p>
@@ -178,12 +181,16 @@
 
                   {% elif 'speaking' in nav_child.url and 'Speaking' == page.title %}
                     <a href="{{ nav_child.url | url }}">{{ nav_child.title }}</a><br />
+
+                  {% elif 'cooking' in nav_child.url and 'Cooking' == page.title %}
+                    <a href="{{ nav_child.url | url }}">{{ nav_child.title }}</a><br />
                   {% endif %}
                 {% endfor %}
               {% endif %}
             {% endfor %}
 
-          {% elif 'lifestyle' in page.url or '/gardening' in page.url or '/speaking' in page.url %}
+          {% elif 'lifestyle' in page.url or 'gardening' in page.url or
+            'speaking' in page.url or 'cooking' in page.url %}
             <!-- if displaying blog post -->
             <div class="blog-post">
               {% if page.meta.title %}
@@ -203,10 +210,9 @@
                 Updated: {{ page.meta.updated }}
                 {% endif %}
               </p>
+              {% endif %}
 
               {{ page.content }}
-
-              {% endif %}
             </div>
 
           {% else %}

@@ -6,7 +6,8 @@ author: Kenny Robinson, @almostengr
 ## Why A Blog?
 
 Kenny started passively blogging in 2011 after watching 
-[a presentation](/technology/2010/07/22/every-developer-needs-a-blog) by 
+<a href="https://thealmostengineer.com/blog/2010.07.22-every-developer-needs-a-blog" 
+target="_blank">a presentation</a> by 
 Scott Hanselman that stated every software developer should 
 have a blog. Eventually that blogging habit faded. 
 

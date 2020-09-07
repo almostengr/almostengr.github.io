@@ -23,4 +23,5 @@ I occasionally give presentations or do live streams. Those announcements, and n
 ### Technology and DIY
 
 Posts related to technology and Do It Yourself (DIY) projects that you see on my social media or 
-YouTube channels, are posted on my other website, [thealmostengineer.com](https://thealmostengineer.com).
+YouTube channels, are posted on my other website,
+<a href="https://thealmostengineer.com" target="_blank">thealmostengineer.com</a>.

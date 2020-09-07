@@ -4,7 +4,6 @@ author: Kenny Robinson
 description: Read about my recent visit to the Red Mountain Park in Birmingham, Alabama
 posted: 2020.02.19
 updated: 2020.09.06
-featured: true
 ---
 
 [![](/images/2020.02.20-mega-zip-at-red-mountain-park3.jpg)](/images/2020.02.20-mega-zip-at-red-mountain-park3.jpg)
