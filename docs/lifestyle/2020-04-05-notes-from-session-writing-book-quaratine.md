@@ -5,11 +5,11 @@
 ## step 1: make sure that people want the book
 
 * survey and research the market first; are there videos on the topic;
-dont want to write a book on a topic that nobody wants to read
+don't want to write a book on a topic that nobody wants to read
 * "everyone has a book in them"
 * find how your story connects with your target market
-* ARTICLE: "what the fico?"  5 ways your becomes a curse
-* find a topic that is needed; add your passion to it; then somebody will wnat to buy it
+* ARTICLE: "what the FICO?"  5 ways your becomes a curse
+* find a topic that is needed; add your passion to it; then somebody will want to buy it
 
 ## step 2: dictate the book
 
@@ -34,7 +34,7 @@ self edit
 read it yourself
 
 get someone else to edit it (Upwork); look at other work that they have done;
-dont want to have mistakes as it may damage your repetutation
+don't want to have mistakes as it may damage your reputation
 
 hire somebody to do the cover (Fiverr)
 
@@ -42,7 +42,7 @@ hire somebody to do the cover (Fiverr)
 Amazon (KDP)
 Ingram Sparks
 
-dont necessarily need to do an NDA as the book itself is copyrighted.
+don't necessarily need to do an NDA as the book itself is copyrighted.
 The platforms have user agreements that your work is protected. Confirm the terms and conditions
 
 see what are the books that are selling right now and what the colors and looks are current
@@ -61,19 +61,19 @@ Amazon takes 60/ you get 40
 
 refer to website
 
-make it at least avialable on Amazon as it gives you noteriety
+make it at least available on Amazon as it gives you notoriety
 
 ### key 1: do not use their extended distribution with Amazon
 
 Amazon will present the book to other companies.  They'll present it as Amazon, thus you come off as
-a self-published author. Dont do that
+a self-published author. don't do that
 
 buy your own ISBN number (Bouker); myidentifiers.com
 allows you to put your own brand name (publishing company) on it
 
 go to Ingram Sparks is a distributor for Barnes and Noble and other book stores
 
-dont be picky about where you sell it. you can sell it and have others to do it for you
+don't be picky about where you sell it. you can sell it and have others to do it for you
 
 Amazon delivery system is better; useful for book events
 
@@ -89,7 +89,7 @@ fill out the form
 have to send them the manuscript; covers the contents and the title
 
 some terms are trademarked
-if your book name is close to a trademarked name, then you could potentionally get sued
+if your book name is close to a trademarked name, then you could potentially get sued
 trademark protects the name; copyright protects the work
 
 things mentioned can also apply for ebooks. can also do for audio books as well.
