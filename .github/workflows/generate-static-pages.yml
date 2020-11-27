@@ -40,6 +40,9 @@ jobs:
 
     - name: Install Minify Plugin
       run: /usr/bin/python3 -m pip install --upgrade mkdocs-minify-plugin
+    
+    - name: Install RSS Plugin
+      run: /usr/bin/python3 -m pip install --upgrade mkdocs-rss-plugin
 
     - name: Checking out repository
       uses: actions/checkout@v2
@@ -54,4 +57,3 @@ jobs:
 
     - name: Building static site
       run:  /usr/bin/python3 -m mkdocs gh-deploy -b master
-      
