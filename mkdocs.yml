@@ -24,6 +24,7 @@ markdown_extensions:
         
 plugins:
   - search
+  - rss
   - minify:
       minify_html: true
       
