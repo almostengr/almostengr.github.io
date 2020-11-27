@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <!-- Mandatory elements -->
+    <title>Kenny Writes</title>
+    <description>The blog of Kenny Robinson, where he shares is hobbies and other thoughts.</description>
+    <link>https://almostengr.github.io/</link>
+    <atom:link href="https://almostengr.github.io/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Optional elements -->
+    <managingEditor>Kenny Robinson, @almostengr</managingEditor>
+    
+    <docs></docs>
+    
+
+    <!-- Timestamps and frequency -->
+    <pubDate>Fri, 27 Nov 2020 01:04:52 -0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 01:04:52 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    <!-- Credits -->
+    <generator>MkDocs RSS plugin - v0.9.0</generator>
+
+    <!-- Feed illustration -->
+    
+
+    <!-- Entries -->
+    
+    <item>
+      <title>Home</title>
+      <description>Kenny Writes is a blog that contains posts related to his hobbies.
+
+## Blog Categories 
+
+### Gardening
+
+I talk about what I have going on in the garde</description>
+      <link>https://almostengr.github.io/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <description>## Why A Blog?
+
+Kenny started passively blogging in 2011 after watching
+&lt;a href=&#34;https://thealmostengineer.com/blog/2010.07.22-every-developer-needs-a</description>
+      <link>https://almostengr.github.io/about/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/about/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Christmas Light Show</title>
+      <description>&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;refresh&#34; content=&#34;2;url=https://almostengr.github.io/christmaslights&#34;&gt;
+
+Redirecting...
+
+If you are not automa</description>
+      <link>https://almostengr.github.io/christmas/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/christmas/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <description>---
+ description: Information about this blog and Kenny Robinson.
+author: Kenny Robinson
+title: Contact
+---
+
+Have a question, comment, or just want to</description>
+      <link>https://almostengr.github.io/contact/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/contact/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Cooking</title>
+      <description></description>
+      <link>https://almostengr.github.io/cooking/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/cooking/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Dutch Oven Chicken</title>
+      <description>There are many ways to cook a chicken. I show you how I do it.</description>
+      <link>https://almostengr.github.io/cooking/2020.09.07-dutch-oven-chicken/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/cooking/2020.09.07-dutch-oven-chicken/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Gardening</title>
+      <description></description>
+      <link>https://almostengr.github.io/gardening/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Snowfall Timelapse in Montgomery, AL - January 16-17, 2018</title>
+      <description># Snowfall Timelapse in Montgomery, AL - January 16-17, 2018
+
+## Background
+
+Timelapse of the snowfall that occurred on January 16-17, 2018.  In total</description>
+      <link>https://almostengr.github.io/gardening/2018-01-19-snowfall-timelapse-in-montgomery%2C-al-january-16-17%2C-2018/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2018-01-19-snowfall-timelapse-in-montgomery%2C-al-january-16-17%2C-2018/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Every Gardener Needs a Journal</title>
+      <description>It&#39;s important to document your garden observations because humans are forgetful.
+
+Think about it... do you really remember how much fertilizer that y</description>
+      <link>https://almostengr.github.io/gardening/2019-02-23-every-gardener-needs-a-journal/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-02-23-every-gardener-needs-a-journal/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Greens From the Winter Garden</title>
+      <description># Greens From the Winter Garden
+
+![Me holding mustard green leaf](/images/2019.03.04-20190228_071422_0.jpg)
+
+As we enter March, it&#39;s almost time to pr</description>
+      <link>https://almostengr.github.io/gardening/2019-03-04-greens-from-the-winter-garden/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-03-04-greens-from-the-winter-garden/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Building Raised Garden Beds</title>
+      <description>![Truck bed full of concrete blocks](/images/2019.03.11-20190309_155432.jpg)
+
+This year, I decided to expand the growing space for my garden. As some </description>
+      <link>https://almostengr.github.io/gardening/2019-03-11-building-raised-garden-beds/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-03-11-building-raised-garden-beds/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sow, A Planting Companion</title>
+      <description>## What is the Cooperative Extension?
+
+The Alabama Cooperative Extension System (ACES) is based out of Auburn University (it hurts to type that... Rol</description>
+      <link>https://almostengr.github.io/gardening/2019-03-11-sow%2C-a-planting-companion/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-03-11-sow%2C-a-planting-companion/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Manual Tree Branch Tear Down</title>
+      <description>&lt;iframe src=&#34;https://www.youtube.com/embed/X1fOSaVnS20&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen=&#34;&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;</description>
+      <link>https://almostengr.github.io/gardening/2019-03-16-manual-tree-branch-tear-down/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-03-16-manual-tree-branch-tear-down/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Containers vs In Ground Gardening</title>
+      <description>![](/images/2019.03.19-42625680_247595219445490_1775194796883580723_n.jpg)
+
+If you live in a small space container gardening works very great. However</description>
+      <link>https://almostengr.github.io/gardening/2019-03-19-containers-vs-in-ground-gardening/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-03-19-containers-vs-in-ground-gardening/</guid>
+      
+    </item>
+    
+    <item>
+      <title>How to Start A Garden in 8 Steps</title>
+      <description>![](/images/2019.04.10-20190409_180534.jpg)
+
+## How to Get Started With A Garden
+
+Spring... all that pollen lets us know that is here. I recently got </description>
+      <link>https://almostengr.github.io/gardening/2019-04-10-how-to-start-a-garden-in-8-steps/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-04-10-how-to-start-a-garden-in-8-steps/</guid>
+      
+    </item>
+    
+    <item>
+      <title>You Still Rake Leaves?</title>
+      <description>It is that time of year. Weather has changed for the cooler and you have a bunch of leaves in your 
+yard. Are you really going to want to spend time r</description>
+      <link>https://almostengr.github.io/gardening/2019-12-22-you-still-rake-leaves/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-12-22-you-still-rake-leaves/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Greens in Grass</title>
+      <description>Update for my garden for the weeks of 2019.12.15 and 2019.12.22.</description>
+      <link>https://almostengr.github.io/gardening/2019-12-29-greens-in-grass/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2019-12-29-greens-in-grass/</guid>
+      
+    </item>
+    
+    <item>
+      <title>January 2020 Garden Update</title>
+      <description>## Red Lettuce
+
+Today, I removed the red lettuce that I attempted to grow this winter. Normally
+lettuces and other leafy greens do well during the win</description>
+      <link>https://almostengr.github.io/gardening/2020-01-25-january-2020-garden-update/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2020-01-25-january-2020-garden-update/</guid>
+      
+    </item>
+    
+    <item>
+      <title>LSU AG Gardening Course Module 5</title>
+      <description>## Types of Plant Reproduction
+
+* sexual (seeds) 
+* asexual (vegetative)
+
+## Sexual Reproduction 
+
+* parts of the plants are from the previous module.</description>
+      <link>https://almostengr.github.io/gardening/2020-06-24-lsu-ag-gardening-course-module-5/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/gardening/2020-06-24-lsu-ag-gardening-course-module-5/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Lifestyle</title>
+      <description></description>
+      <link>https://almostengr.github.io/lifestyle/</link>
+      <pubDate>Fri, 27 Nov 2020 01:03:49 -0000</pubDate>
+      <source url="https://almostengr.github.io/feed_rss_created.xml">Kenny Writes</source>
+      <guid isPermaLink="true">https://almostengr.github.io/lifestyle/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
